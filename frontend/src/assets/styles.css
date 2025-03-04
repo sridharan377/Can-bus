@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: "Orbitron", sans-serif;
+  background: #000;
+  color: white;
+  overflow: hidden;
+}
+
+.cyber-grid {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: url("@/assets/cyber-grid.svg");
+  background-size: cover;
+  opacity: 0.5;
+  z-index: -1;
+  animation: gridMove 10s infinite linear;
+  
+}
+
+@keyframes gridMove {
+
+  0% { transform: translateY(0px); }
+  100% { transform: translateY(-50px); }
+}
+
+/* Cyber Circuit Animation */
+.cyber-circuit {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("@/assets/cyber-circuit.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.3;
+  z-index: -2;
+  animation: pulse 4s infinite alternate;
+  filter: drop-shadow(0px 0px 10px cyan);
+}
+
+@keyframes pulse {
+  0% { opacity: 0.2;  filter: drop-shadow(0px 0px 5px cyan); }
+  100% { opacity: 0.5;  filter: drop-shadow(0px 0px 10px cyan); }
+}
+
+h1,h2,p{
+  text.shadow: 0px 0px 10px cyan, 0px 0px 20px blue;
+}
+
+.navbar{
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(5px);
+  border: 2px solid cyan;
+  box-shadow: 0px 0px 10px cyan;
+  transition: 0.3s;
+}
+
+.navbar:hover{
+ box-shadow: 0px 0px 20px cyan;
+ }
+ 
+ .nav-link{
+color: white;
+text-decoration: none;
+padding: 10px 15px;
+border-radius: 5px;
+transition: all 0.3s ease-in-out;
+position: relative;
+}
+
+.nav-link:hover{
+background: rgba(0,255,255,0.2);
+box-shadow: 0px 0px 10px cyan;
+}
+
+button{
+background: linear-gradient(90deg, cyan, blue);
+border: none;
+padding: 10px 20px;
+color: black;
+font-weight: bold;
+text-transform: uppercase;
+border-radius: 5px;
+cursor: pointer;
+transition: 0.3s;
+box-shadow: 0px 0px 10px cyan;
+}
+button:hover {
+box-shadow: 0px 0px 20px blue;
+transform: scale(1.1);
+}
+
+
