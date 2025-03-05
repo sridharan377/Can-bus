@@ -1,0 +1,9 @@
+flask
+flask-socketio
+eventlet
+python-can
+joblib
+numpy
+pandas
+influxdb-client
+gunicorn

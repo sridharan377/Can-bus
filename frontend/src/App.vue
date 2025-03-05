@@ -53,10 +53,27 @@ export default {
     const messages = ref([]);
     const showModal = ref(false);
     const selectedMessage = ref(null);
-    const socket = io("http://localhost:5000");
+    const socket = io(import.meta.env.VITE_BACKEND_URL || "/");
 
-    onMounted(() => {
+    onMounted(async () => {
     
+      try {
+              
+        // Fetch static API data from Firebase Hosting
+        const response = await fetch("/api/hello.json");
+        const data = await response.json();
+        console.log("Fetched initial API data:", data);
+        
+        // Push initial API data into messages list
+        messages.value.push({
+          id: "API_Initial",
+          message: data.message,
+          timestamp: new Date().toLocaleTimeString(),
+          type: "System",
+        });
+      } catch (error) {
+        console.error("Error fetching API data:", error);
+      }
       socket.on("new_message", (data) => {
         console.log("Received message from backend:", data);
         // Add a timestamp and assign a type based on message id
