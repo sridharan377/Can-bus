@@ -21893,3 +21893,1786 @@
 2025-03-04 13:37:20," ML-detected anomaly: ID 0x200, Freq 33"
 2025-03-04 13:37:20,Unusual CAN ID detected: 0x200
 2025-03-04 13:37:20,"ML Detected Anomaly: ID = 0x200, Frequency=9"
+12:07:53, 0x100, ML Detected Anomaly
+1741156680.7358882,0x100,Unusal CAN ID
+12:07:57, 0x666, ML Detected Anomaly
+2025-03-05 12:08:03," ML-detected anomaly: ID 0x666, Freq 49"
+2025-03-05 12:08:03,"ML Detected Anomaly: ID = 0x666, Frequency=1"
+2025-03-05 12:08:05," ML-detected anomaly: ID 0x100, Freq 89"
+2025-03-05 12:08:05,Unusual CAN ID detected: 0x100
+2025-03-05 12:08:05,"ML Detected Anomaly: ID = 0x100, Frequency=1"
+12:08:05, 0x200, ML Detected Anomaly
+1741156688.821283,0x200,Unusal CAN ID
+12:08:07, 0x200, ML Detected Anomaly
+1741156691.0396316,0x200,Unusal CAN ID
+2025-03-05 12:08:13," ML-detected anomaly: ID 0x200, Freq 54"
+2025-03-05 12:08:13,Unusual CAN ID detected: 0x200
+2025-03-05 12:08:13,"ML Detected Anomaly: ID = 0x200, Frequency=1"
+2025-03-05 12:08:16," ML-detected anomaly: ID 0x200, Freq 76"
+2025-03-05 12:08:16,Unusual CAN ID detected: 0x200
+2025-03-05 12:08:16,"ML Detected Anomaly: ID = 0x200, Frequency=1"
+12:08:15, 0x666, ML Detected Anomaly
+12:08:18, 0x100, ML Detected Anomaly
+1741156700.882147,0x100,Unusal CAN ID
+2025-03-05 12:08:21," ML-detected anomaly: ID 0x666, Freq 16"
+2025-03-05 12:08:21,"ML Detected Anomaly: ID = 0x666, Frequency=3"
+2025-03-05 12:08:27," ML-detected anomaly: ID 0x100, Freq 5"
+2025-03-05 12:08:27,Unusual CAN ID detected: 0x100
+2025-03-05 12:08:27,"ML Detected Anomaly: ID = 0x100, Frequency=3"
+12:08:23, 0x666, ML Detected Anomaly
+2025-03-05 12:08:31," ML-detected anomaly: ID 0x666, Freq 73"
+2025-03-05 12:08:31,"ML Detected Anomaly: ID = 0x666, Frequency=5"
+12:08:29, 0x100, ML Detected Anomaly
+1741156713.101281,0x100,Unusal CAN ID
+12:08:33, 0x100, ML Detected Anomaly
+1741156716.4856508,0x100,Unusal CAN ID
+2025-03-05 12:08:38," ML-detected anomaly: ID 0x100, Freq 77"
+2025-03-05 12:08:38,Unusual CAN ID detected: 0x100
+2025-03-05 12:08:38,"ML Detected Anomaly: ID = 0x100, Frequency=5"
+2025-03-05 12:08:41," ML-detected anomaly: ID 0x100, Freq 63"
+2025-03-05 12:08:41,Unusual CAN ID detected: 0x100
+2025-03-05 12:08:41,"ML Detected Anomaly: ID = 0x100, Frequency=1"
+12:08:40, 0x666, ML Detected Anomaly
+2025-03-05 12:08:47," ML-detected anomaly: ID 0x666, Freq 70"
+2025-03-05 12:08:47,"ML Detected Anomaly: ID = 0x666, Frequency=1"
+12:08:43, 0x666, ML Detected Anomaly
+2025-03-05 12:08:51," ML-detected anomaly: ID 0x666, Freq 9"
+2025-03-05 12:08:51,"ML Detected Anomaly: ID = 0x666, Frequency=7"
+12:08:49, 0x100, ML Detected Anomaly
+1741156732.9114413,0x100,Unusal CAN ID
+12:08:53, 0x200, ML Detected Anomaly
+1741156736.127502,0x200,Unusal CAN ID
+2025-03-05 12:08:57," ML-detected anomaly: ID 0x100, Freq 61"
+2025-03-05 12:08:57,Unusual CAN ID detected: 0x100
+2025-03-05 12:08:57,"ML Detected Anomaly: ID = 0x100, Frequency=7"
+2025-03-05 12:09:00," ML-detected anomaly: ID 0x200, Freq 42"
+2025-03-05 12:09:00,Unusual CAN ID detected: 0x200
+2025-03-05 12:09:00,"ML Detected Anomaly: ID = 0x200, Frequency=3"
+12:08:59, 0x200, ML Detected Anomaly
+1741156741.784918,0x200,Unusal CAN ID
+12:09:02, 0x200, ML Detected Anomaly
+1741156752.0785265,0x200,Unusal CAN ID
+2025-03-05 12:09:13," ML-detected anomaly: ID 0x200, Freq 12"
+2025-03-05 12:09:13,Unusual CAN ID detected: 0x200
+2025-03-05 12:09:13,"ML Detected Anomaly: ID = 0x200, Frequency=3"
+2025-03-05 12:09:19," ML-detected anomaly: ID 0x200, Freq 48"
+2025-03-05 12:09:19,Unusual CAN ID detected: 0x200
+2025-03-05 12:09:19,"ML Detected Anomaly: ID = 0x200, Frequency=5"
+12:09:15, 0x666, ML Detected Anomaly
+2025-03-05 12:09:23," ML-detected anomaly: ID 0x666, Freq 94"
+2025-03-05 12:09:23,"ML Detected Anomaly: ID = 0x666, Frequency=3"
+12:09:21, 0x100, ML Detected Anomaly
+1741156764.3186107,0x100,Unusal CAN ID
+12:09:25, 0x100, ML Detected Anomaly
+1741156769.1605814,0x100,Unusal CAN ID
+2025-03-05 12:09:30," ML-detected anomaly: ID 0x100, Freq 56"
+2025-03-05 12:09:30,Unusual CAN ID detected: 0x100
+2025-03-05 12:09:30,"ML Detected Anomaly: ID = 0x100, Frequency=3"
+2025-03-05 12:09:33," ML-detected anomaly: ID 0x100, Freq 90"
+2025-03-05 12:09:33,Unusual CAN ID detected: 0x100
+2025-03-05 12:09:33,"ML Detected Anomaly: ID = 0x100, Frequency=9"
+12:09:32, 0x100, ML Detected Anomaly
+1741156774.851986,0x100,Unusal CAN ID
+12:09:35, 0x100, ML Detected Anomaly
+1741156778.2218964,0x100,Unusal CAN ID
+2025-03-05 12:09:39," ML-detected anomaly: ID 0x100, Freq 26"
+2025-03-05 12:09:39,Unusual CAN ID detected: 0x100
+2025-03-05 12:09:39,"ML Detected Anomaly: ID = 0x100, Frequency=5"
+2025-03-05 12:09:42," ML-detected anomaly: ID 0x100, Freq 6"
+2025-03-05 12:09:42,Unusual CAN ID detected: 0x100
+2025-03-05 12:09:42,"ML Detected Anomaly: ID = 0x100, Frequency=11"
+12:09:41, 0x200, ML Detected Anomaly
+1741156783.9574702,0x200,Unusal CAN ID
+12:09:44, 0x666, ML Detected Anomaly
+2025-03-05 12:09:49," ML-detected anomaly: ID 0x200, Freq 64"
+2025-03-05 12:09:49,Unusual CAN ID detected: 0x200
+2025-03-05 12:09:49,"ML Detected Anomaly: ID = 0x200, Frequency=7"
+2025-03-05 12:09:50," ML-detected anomaly: ID 0x666, Freq 66"
+2025-03-05 12:09:50,"ML Detected Anomaly: ID = 0x666, Frequency=5"
+12:09:51, 0x666, ML Detected Anomaly
+12:09:52, 0x200, ML Detected Anomaly
+1741156794.8518133,0x200,Unusal CAN ID
+2025-03-05 12:09:56," ML-detected anomaly: ID 0x666, Freq 13"
+2025-03-05 12:09:56,"ML Detected Anomaly: ID = 0x666, Frequency=9"
+2025-03-05 12:09:59," ML-detected anomaly: ID 0x200, Freq 60"
+2025-03-05 12:09:59,Unusual CAN ID detected: 0x200
+2025-03-05 12:09:59,"ML Detected Anomaly: ID = 0x200, Frequency=5"
+12:09:58, 0x100, ML Detected Anomaly
+1741156800.6760826,0x100,Unusal CAN ID
+12:10:01, 0x200, ML Detected Anomaly
+1741156805.2362168,0x200,Unusal CAN ID
+2025-03-05 12:10:06," ML-detected anomaly: ID 0x100, Freq 12"
+2025-03-05 12:10:06,Unusual CAN ID detected: 0x100
+2025-03-05 12:10:06,"ML Detected Anomaly: ID = 0x100, Frequency=7"
+2025-03-05 12:10:10," ML-detected anomaly: ID 0x200, Freq 82"
+2025-03-05 12:10:10,Unusual CAN ID detected: 0x200
+2025-03-05 12:10:10,"ML Detected Anomaly: ID = 0x200, Frequency=7"
+12:10:08, 0x666, ML Detected Anomaly
+2025-03-05 12:10:14," ML-detected anomaly: ID 0x666, Freq 42"
+2025-03-05 12:10:14,"ML Detected Anomaly: ID = 0x666, Frequency=11"
+12:10:12, 0x666, ML Detected Anomaly
+2025-03-05 12:10:20," ML-detected anomaly: ID 0x666, Freq 91"
+2025-03-05 12:10:20,"ML Detected Anomaly: ID = 0x666, Frequency=7"
+12:10:16, 0x666, ML Detected Anomaly
+2025-03-05 12:10:22," ML-detected anomaly: ID 0x666, Freq 7"
+2025-03-05 12:10:22,"ML Detected Anomaly: ID = 0x666, Frequency=13"
+12:10:22, 0x200, ML Detected Anomaly
+1741156825.3466678,0x200,Unusal CAN ID
+12:10:24, 0x100, ML Detected Anomaly
+1741156827.720787,0x100,Unusal CAN ID
+2025-03-05 12:10:30," ML-detected anomaly: ID 0x200, Freq 63"
+2025-03-05 12:10:30,Unusual CAN ID detected: 0x200
+2025-03-05 12:10:30,"ML Detected Anomaly: ID = 0x200, Frequency=9"
+2025-03-05 12:10:32," ML-detected anomaly: ID 0x100, Freq 43"
+2025-03-05 12:10:32,Unusual CAN ID detected: 0x100
+2025-03-05 12:10:32,"ML Detected Anomaly: ID = 0x100, Frequency=9"
+12:10:32, 0x200, ML Detected Anomaly
+1741156834.512797,0x200,Unusal CAN ID
+12:10:34, 0x200, ML Detected Anomaly
+1741156836.7807167,0x200,Unusal CAN ID
+2025-03-05 12:10:39," ML-detected anomaly: ID 0x200, Freq 90"
+2025-03-05 12:10:39,Unusual CAN ID detected: 0x200
+2025-03-05 12:10:39,"ML Detected Anomaly: ID = 0x200, Frequency=11"
+2025-03-05 12:10:41," ML-detected anomaly: ID 0x200, Freq 35"
+2025-03-05 12:10:41,Unusual CAN ID detected: 0x200
+2025-03-05 12:10:41,"ML Detected Anomaly: ID = 0x200, Frequency=9"
+12:10:41, 0x100, ML Detected Anomaly
+1741156843.3338637,0x100,Unusal CAN ID
+12:10:43, 0x666, ML Detected Anomaly
+2025-03-05 12:10:47," ML-detected anomaly: ID 0x100, Freq 66"
+2025-03-05 12:10:47,Unusual CAN ID detected: 0x100
+2025-03-05 12:10:47,"ML Detected Anomaly: ID = 0x100, Frequency=13"
+2025-03-05 12:10:48," ML-detected anomaly: ID 0x666, Freq 66"
+2025-03-05 12:10:48,"ML Detected Anomaly: ID = 0x666, Frequency=15"
+12:10:49, 0x100, ML Detected Anomaly
+1741156851.7844808,0x100,Unusal CAN ID
+12:10:50, 0x100, ML Detected Anomaly
+1741156852.4494193,0x100,Unusal CAN ID
+2025-03-05 12:10:56," ML-detected anomaly: ID 0x100, Freq 28"
+2025-03-05 12:10:56,Unusual CAN ID detected: 0x100
+2025-03-05 12:10:56,"ML Detected Anomaly: ID = 0x100, Frequency=15"
+2025-03-05 12:10:57," ML-detected anomaly: ID 0x100, Freq 100"
+2025-03-05 12:10:57,Unusual CAN ID detected: 0x100
+2025-03-05 12:10:57,"ML Detected Anomaly: ID = 0x100, Frequency=11"
+12:10:58, 0x666, ML Detected Anomaly
+12:10:59, 0x100, ML Detected Anomaly
+1741156862.3967018,0x100,Unusal CAN ID
+2025-03-05 12:11:04," ML-detected anomaly: ID 0x666, Freq 13"
+2025-03-05 12:11:04,"ML Detected Anomaly: ID = 0x666, Frequency=9"
+2025-03-05 12:11:07," ML-detected anomaly: ID 0x100, Freq 77"
+2025-03-05 12:11:07,Unusual CAN ID detected: 0x100
+2025-03-05 12:11:07,"ML Detected Anomaly: ID = 0x100, Frequency=13"
+12:11:06, 0x200, ML Detected Anomaly
+1741156868.8733318,0x200,Unusal CAN ID
+12:11:09, 0x100, ML Detected Anomaly
+1741156871.8963711,0x100,Unusal CAN ID
+2025-03-05 12:11:13," ML-detected anomaly: ID 0x200, Freq 61"
+2025-03-05 12:11:13,Unusual CAN ID detected: 0x200
+2025-03-05 12:11:13,"ML Detected Anomaly: ID = 0x200, Frequency=13"
+2025-03-05 12:11:16," ML-detected anomaly: ID 0x100, Freq 38"
+2025-03-05 12:11:16,Unusual CAN ID detected: 0x100
+2025-03-05 12:11:16,"ML Detected Anomaly: ID = 0x100, Frequency=15"
+12:11:15, 0x666, ML Detected Anomaly
+2025-03-05 12:11:20," ML-detected anomaly: ID 0x666, Freq 13"
+2025-03-05 12:11:20,"ML Detected Anomaly: ID = 0x666, Frequency=11"
+12:11:18, 0x666, ML Detected Anomaly
+2025-03-05 12:11:23," ML-detected anomaly: ID 0x666, Freq 87"
+2025-03-05 12:11:23,"ML Detected Anomaly: ID = 0x666, Frequency=17"
+12:11:22, 0x100, ML Detected Anomaly
+1741156885.1534014,0x100,Unusal CAN ID
+12:11:25, 0x100, ML Detected Anomaly
+1741156888.4995484,0x100,Unusal CAN ID
+2025-03-05 12:11:31," ML-detected anomaly: ID 0x100, Freq 70"
+2025-03-05 12:11:31,Unusual CAN ID detected: 0x100
+2025-03-05 12:11:31,"ML Detected Anomaly: ID = 0x100, Frequency=17"
+2025-03-05 12:11:34," ML-detected anomaly: ID 0x100, Freq 55"
+2025-03-05 12:11:34,Unusual CAN ID detected: 0x100
+2025-03-05 12:11:34,"ML Detected Anomaly: ID = 0x100, Frequency=17"
+12:11:33, 0x666, ML Detected Anomaly
+2025-03-05 12:11:38," ML-detected anomaly: ID 0x666, Freq 17"
+2025-03-05 12:11:38,"ML Detected Anomaly: ID = 0x666, Frequency=13"
+12:11:36, 0x100, ML Detected Anomaly
+1741156899.06509,0x100,Unusal CAN ID
+12:11:40, 0x666, ML Detected Anomaly
+2025-03-05 12:11:43," ML-detected anomaly: ID 0x100, Freq 22"
+2025-03-05 12:11:43,Unusual CAN ID detected: 0x100
+2025-03-05 12:11:43,"ML Detected Anomaly: ID = 0x100, Frequency=19"
+2025-03-05 12:11:44," ML-detected anomaly: ID 0x666, Freq 57"
+2025-03-05 12:11:44,"ML Detected Anomaly: ID = 0x666, Frequency=15"
+12:11:45, 0x100, ML Detected Anomaly
+1741156907.9592197,0x100,Unusal CAN ID
+12:11:46, 0x666, ML Detected Anomaly
+2025-03-05 12:11:51," ML-detected anomaly: ID 0x666, Freq 84"
+2025-03-05 12:11:51,"ML Detected Anomaly: ID = 0x666, Frequency=17"
+2025-03-05 12:11:52," ML-detected anomaly: ID 0x100, Freq 44"
+2025-03-05 12:11:52,Unusual CAN ID detected: 0x100
+2025-03-05 12:11:52,"ML Detected Anomaly: ID = 0x100, Frequency=21"
+12:11:53, 0x200, ML Detected Anomaly
+1741156916.6084065,0x200,Unusal CAN ID
+12:11:54, 0x200, ML Detected Anomaly
+1741156917.7001188,0x200,Unusal CAN ID
+2025-03-05 12:12:01," ML-detected anomaly: ID 0x200, Freq 8"
+2025-03-05 12:12:01,Unusual CAN ID detected: 0x200
+2025-03-05 12:12:01,"ML Detected Anomaly: ID = 0x200, Frequency=15"
+2025-03-05 12:12:02," ML-detected anomaly: ID 0x200, Freq 5"
+2025-03-05 12:12:02,Unusual CAN ID detected: 0x200
+2025-03-05 12:12:02,"ML Detected Anomaly: ID = 0x200, Frequency=11"
+12:12:03, 0x200, ML Detected Anomaly
+1741156926.3846204,0x200,Unusal CAN ID
+12:12:04, 0x200, ML Detected Anomaly
+1741156926.6679428,0x200,Unusal CAN ID
+2025-03-05 12:12:10," ML-detected anomaly: ID 0x200, Freq 56"
+2025-03-05 12:12:10,Unusual CAN ID detected: 0x200
+2025-03-05 12:12:10,"ML Detected Anomaly: ID = 0x200, Frequency=17"
+2025-03-05 12:12:11," ML-detected anomaly: ID 0x200, Freq 73"
+2025-03-05 12:12:11,Unusual CAN ID detected: 0x200
+2025-03-05 12:12:11,"ML Detected Anomaly: ID = 0x200, Frequency=13"
+12:12:12, 0x100, ML Detected Anomaly
+1741156935.2115223,0x100,Unusal CAN ID
+12:12:13, 0x200, ML Detected Anomaly
+1741156935.5345259,0x200,Unusal CAN ID
+2025-03-05 12:12:19," ML-detected anomaly: ID 0x100, Freq 78"
+2025-03-05 12:12:19,Unusual CAN ID detected: 0x100
+2025-03-05 12:12:19,"ML Detected Anomaly: ID = 0x100, Frequency=19"
+2025-03-05 12:12:20," ML-detected anomaly: ID 0x200, Freq 51"
+2025-03-05 12:12:20,Unusual CAN ID detected: 0x200
+2025-03-05 12:12:20,"ML Detected Anomaly: ID = 0x200, Frequency=15"
+12:12:21, 0x666, ML Detected Anomaly
+12:12:22, 0x200, ML Detected Anomaly
+1741156944.7002273,0x200,Unusal CAN ID
+2025-03-05 12:12:26," ML-detected anomaly: ID 0x666, Freq 45"
+2025-03-05 12:12:26,"ML Detected Anomaly: ID = 0x666, Frequency=19"
+2025-03-05 12:12:28," ML-detected anomaly: ID 0x200, Freq 30"
+2025-03-05 12:12:28,Unusual CAN ID detected: 0x200
+2025-03-05 12:12:28,"ML Detected Anomaly: ID = 0x200, Frequency=17"
+12:12:28, 0x200, ML Detected Anomaly
+1741156950.6321008,0x200,Unusal CAN ID
+12:12:30, 0x200, ML Detected Anomaly
+1741156953.2862473,0x200,Unusal CAN ID
+2025-03-05 12:12:34," ML-detected anomaly: ID 0x200, Freq 9"
+2025-03-05 12:12:34,Unusual CAN ID detected: 0x200
+2025-03-05 12:12:34,"ML Detected Anomaly: ID = 0x200, Frequency=19"
+2025-03-05 12:12:37," ML-detected anomaly: ID 0x200, Freq 67"
+2025-03-05 12:12:37,Unusual CAN ID detected: 0x200
+2025-03-05 12:12:37,"ML Detected Anomaly: ID = 0x200, Frequency=19"
+12:12:36, 0x200, ML Detected Anomaly
+1741156959.1222448,0x200,Unusal CAN ID
+12:12:39, 0x100, ML Detected Anomaly
+1741156961.6412914,0x100,Unusal CAN ID
+2025-03-05 12:12:43," ML-detected anomaly: ID 0x200, Freq 95"
+2025-03-05 12:12:43,Unusual CAN ID detected: 0x200
+2025-03-05 12:12:43,"ML Detected Anomaly: ID = 0x200, Frequency=21"
+2025-03-05 12:12:45," ML-detected anomaly: ID 0x100, Freq 58"
+2025-03-05 12:12:45,Unusual CAN ID detected: 0x100
+2025-03-05 12:12:45,"ML Detected Anomaly: ID = 0x100, Frequency=23"
+12:12:45, 0x200, ML Detected Anomaly
+1741156967.73499,0x200,Unusal CAN ID
+2025-03-05 12:12:52," ML-detected anomaly: ID 0x200, Freq 75"
+2025-03-05 12:12:52,Unusual CAN ID detected: 0x200
+2025-03-05 12:12:52,"ML Detected Anomaly: ID = 0x200, Frequency=23"
+12:12:49, 0x666, ML Detected Anomaly
+2025-03-05 12:12:54," ML-detected anomaly: ID 0x666, Freq 47"
+2025-03-05 12:12:54,"ML Detected Anomaly: ID = 0x666, Frequency=21"
+12:12:54, 0x666, ML Detected Anomaly
+2025-03-05 12:12:58," ML-detected anomaly: ID 0x666, Freq 13"
+2025-03-05 12:12:58,"ML Detected Anomaly: ID = 0x666, Frequency=21"
+12:12:56, 0x200, ML Detected Anomaly
+1741156978.1816232,0x200,Unusal CAN ID
+2025-03-05 12:13:02," ML-detected anomaly: ID 0x200, Freq 14"
+2025-03-05 12:13:02,Unusual CAN ID detected: 0x200
+2025-03-05 12:13:02,"ML Detected Anomaly: ID = 0x200, Frequency=21"
+12:13:00, 0x200, ML Detected Anomaly
+1741156982.239724,0x200,Unusal CAN ID
+12:13:04, 0x666, ML Detected Anomaly
+2025-03-05 12:13:06," ML-detected anomaly: ID 0x200, Freq 49"
+2025-03-05 12:13:06,Unusual CAN ID detected: 0x200
+2025-03-05 12:13:06,"ML Detected Anomaly: ID = 0x200, Frequency=25"
+2025-03-05 12:13:08," ML-detected anomaly: ID 0x666, Freq 73"
+2025-03-05 12:13:08,"ML Detected Anomaly: ID = 0x666, Frequency=23"
+12:13:08, 0x200, ML Detected Anomaly
+1741156990.4826987,0x200,Unusal CAN ID
+12:13:10, 0x200, ML Detected Anomaly
+1741156992.1202285,0x200,Unusal CAN ID
+2025-03-05 12:13:14," ML-detected anomaly: ID 0x200, Freq 24"
+2025-03-05 12:13:14,Unusual CAN ID detected: 0x200
+2025-03-05 12:13:14,"ML Detected Anomaly: ID = 0x200, Frequency=27"
+2025-03-05 12:13:16," ML-detected anomaly: ID 0x200, Freq 59"
+2025-03-05 12:13:16,Unusual CAN ID detected: 0x200
+2025-03-05 12:13:16,"ML Detected Anomaly: ID = 0x200, Frequency=23"
+12:13:16, 0x666, ML Detected Anomaly
+12:13:18, 0x200, ML Detected Anomaly
+1741157000.1123013,0x200,Unusal CAN ID
+2025-03-05 12:13:20," ML-detected anomaly: ID 0x666, Freq 84"
+2025-03-05 12:13:20,"ML Detected Anomaly: ID = 0x666, Frequency=23"
+2025-03-05 12:13:24," ML-detected anomaly: ID 0x200, Freq 18"
+2025-03-05 12:13:24,Unusual CAN ID detected: 0x200
+2025-03-05 12:13:24,"ML Detected Anomaly: ID = 0x200, Frequency=25"
+12:13:22, 0x100, ML Detected Anomaly
+1741157004.6280043,0x100,Unusal CAN ID
+2025-03-05 12:13:28," ML-detected anomaly: ID 0x100, Freq 82"
+2025-03-05 12:13:28,Unusual CAN ID detected: 0x100
+2025-03-05 12:13:28,"ML Detected Anomaly: ID = 0x100, Frequency=21"
+12:13:26, 0x666, ML Detected Anomaly
+2025-03-05 12:13:31," ML-detected anomaly: ID 0x666, Freq 32"
+2025-03-05 12:13:31,"ML Detected Anomaly: ID = 0x666, Frequency=25"
+12:13:30, 0x100, ML Detected Anomaly
+1741157012.5667818,0x100,Unusal CAN ID
+12:13:33, 0x100, ML Detected Anomaly
+1741157015.4519823,0x100,Unusal CAN ID
+2025-03-05 12:13:36," ML-detected anomaly: ID 0x100, Freq 58"
+2025-03-05 12:13:36,Unusual CAN ID detected: 0x100
+2025-03-05 12:13:36,"ML Detected Anomaly: ID = 0x100, Frequency=23"
+2025-03-05 12:13:39," ML-detected anomaly: ID 0x100, Freq 57"
+2025-03-05 12:13:39,Unusual CAN ID detected: 0x100
+2025-03-05 12:13:39,"ML Detected Anomaly: ID = 0x100, Frequency=25"
+12:13:38, 0x100, ML Detected Anomaly
+1741157020.721045,0x100,Unusal CAN ID
+12:13:41, 0x100, ML Detected Anomaly
+1741157024.694323,0x100,Unusal CAN ID
+2025-03-05 12:13:45," ML-detected anomaly: ID 0x100, Freq 4"
+2025-03-05 12:13:45,Unusual CAN ID detected: 0x100
+2025-03-05 12:13:45,"ML Detected Anomaly: ID = 0x100, Frequency=25"
+2025-03-05 12:13:48," ML-detected anomaly: ID 0x100, Freq 78"
+2025-03-05 12:13:48,Unusual CAN ID detected: 0x100
+2025-03-05 12:13:48,"ML Detected Anomaly: ID = 0x100, Frequency=27"
+12:13:47, 0x666, ML Detected Anomaly
+2025-03-05 12:13:51," ML-detected anomaly: ID 0x666, Freq 89"
+2025-03-05 12:13:51,"ML Detected Anomaly: ID = 0x666, Frequency=25"
+12:13:50, 0x100, ML Detected Anomaly
+1741157032.813071,0x100,Unusal CAN ID
+12:13:53, 0x200, ML Detected Anomaly
+1741157036.0954547,0x200,Unusal CAN ID
+2025-03-05 12:13:56," ML-detected anomaly: ID 0x100, Freq 70"
+2025-03-05 12:13:56,Unusual CAN ID detected: 0x100
+2025-03-05 12:13:56,"ML Detected Anomaly: ID = 0x100, Frequency=29"
+2025-03-05 12:14:01," ML-detected anomaly: ID 0x200, Freq 74"
+2025-03-05 12:14:01,Unusual CAN ID detected: 0x200
+2025-03-05 12:14:01,"ML Detected Anomaly: ID = 0x200, Frequency=29"
+12:13:58, 0x100, ML Detected Anomaly
+1741157041.485565,0x100,Unusal CAN ID
+12:14:03, 0x100, ML Detected Anomaly
+1741157045.3052773,0x100,Unusal CAN ID
+2025-03-05 12:14:06," ML-detected anomaly: ID 0x100, Freq 66"
+2025-03-05 12:14:06,Unusual CAN ID detected: 0x100
+2025-03-05 12:14:06,"ML Detected Anomaly: ID = 0x100, Frequency=31"
+2025-03-05 12:14:09," ML-detected anomaly: ID 0x100, Freq 28"
+2025-03-05 12:14:09,Unusual CAN ID detected: 0x100
+2025-03-05 12:14:09,"ML Detected Anomaly: ID = 0x100, Frequency=27"
+12:14:08, 0x100, ML Detected Anomaly
+1741157050.404139,0x100,Unusal CAN ID
+12:14:11, 0x100, ML Detected Anomaly
+1741157053.507363,0x100,Unusal CAN ID
+2025-03-05 12:14:14," ML-detected anomaly: ID 0x100, Freq 98"
+2025-03-05 12:14:14,Unusual CAN ID detected: 0x100
+2025-03-05 12:14:14,"ML Detected Anomaly: ID = 0x100, Frequency=33"
+2025-03-05 12:14:17," ML-detected anomaly: ID 0x100, Freq 34"
+2025-03-05 12:14:17,Unusual CAN ID detected: 0x100
+2025-03-05 12:14:17,"ML Detected Anomaly: ID = 0x100, Frequency=29"
+12:14:16, 0x100, ML Detected Anomaly
+1741157058.7045774,0x100,Unusal CAN ID
+12:14:19, 0x666, ML Detected Anomaly
+2025-03-05 12:14:22," ML-detected anomaly: ID 0x100, Freq 69"
+2025-03-05 12:14:22,Unusual CAN ID detected: 0x100
+2025-03-05 12:14:22,"ML Detected Anomaly: ID = 0x100, Frequency=35"
+2025-03-05 12:14:23," ML-detected anomaly: ID 0x666, Freq 55"
+2025-03-05 12:14:23,"ML Detected Anomaly: ID = 0x666, Frequency=27"
+12:14:24, 0x100, ML Detected Anomaly
+1741157066.8047166,0x100,Unusal CAN ID
+12:14:25, 0x200, ML Detected Anomaly
+1741157067.7879949,0x200,Unusal CAN ID
+2025-03-05 12:14:30," ML-detected anomaly: ID 0x100, Freq 55"
+2025-03-05 12:14:30,Unusual CAN ID detected: 0x100
+2025-03-05 12:14:30,"ML Detected Anomaly: ID = 0x100, Frequency=37"
+2025-03-05 12:14:31," ML-detected anomaly: ID 0x200, Freq 9"
+2025-03-05 12:14:31,Unusual CAN ID detected: 0x200
+2025-03-05 12:14:31,"ML Detected Anomaly: ID = 0x200, Frequency=31"
+12:14:32, 0x100, ML Detected Anomaly
+1741157074.7360718,0x100,Unusal CAN ID
+12:14:33, 0x200, ML Detected Anomaly
+1741157075.7490406,0x200,Unusal CAN ID
+2025-03-05 12:14:38," ML-detected anomaly: ID 0x100, Freq 68"
+2025-03-05 12:14:38,Unusual CAN ID detected: 0x100
+2025-03-05 12:14:38,"ML Detected Anomaly: ID = 0x100, Frequency=39"
+2025-03-05 12:14:40," ML-detected anomaly: ID 0x200, Freq 77"
+2025-03-05 12:14:40,Unusual CAN ID detected: 0x200
+2025-03-05 12:14:40,"ML Detected Anomaly: ID = 0x200, Frequency=33"
+12:14:40, 0x200, ML Detected Anomaly
+1741157083.2600486,0x200,Unusal CAN ID
+12:14:42, 0x666, ML Detected Anomaly
+2025-03-05 12:14:46," ML-detected anomaly: ID 0x666, Freq 80"
+2025-03-05 12:14:46,"ML Detected Anomaly: ID = 0x666, Frequency=29"
+2025-03-05 12:14:47," ML-detected anomaly: ID 0x200, Freq 62"
+2025-03-05 12:14:47,Unusual CAN ID detected: 0x200
+2025-03-05 12:14:47,"ML Detected Anomaly: ID = 0x200, Frequency=27"
+12:14:48, 0x200, ML Detected Anomaly
+1741157090.740392,0x200,Unusal CAN ID
+12:14:49, 0x200, ML Detected Anomaly
+1741157091.790459,0x200,Unusal CAN ID
+2025-03-05 12:14:54," ML-detected anomaly: ID 0x200, Freq 44"
+2025-03-05 12:14:54,Unusual CAN ID detected: 0x200
+2025-03-05 12:14:54,"ML Detected Anomaly: ID = 0x200, Frequency=35"
+2025-03-05 12:14:55," ML-detected anomaly: ID 0x200, Freq 35"
+2025-03-05 12:14:55,Unusual CAN ID detected: 0x200
+2025-03-05 12:14:55,"ML Detected Anomaly: ID = 0x200, Frequency=29"
+12:14:56, 0x100, ML Detected Anomaly
+1741157098.9172606,0x100,Unusal CAN ID
+12:14:57, 0x666, ML Detected Anomaly
+2025-03-05 12:15:02," ML-detected anomaly: ID 0x666, Freq 79"
+2025-03-05 12:15:02,"ML Detected Anomaly: ID = 0x666, Frequency=27"
+2025-03-05 12:15:02," ML-detected anomaly: ID 0x100, Freq 56"
+2025-03-05 12:15:02,Unusual CAN ID detected: 0x100
+2025-03-05 12:15:02,"ML Detected Anomaly: ID = 0x100, Frequency=31"
+12:15:04, 0x100, ML Detected Anomaly
+1741157106.5446153,0x100,Unusal CAN ID
+12:15:04, 0x200, ML Detected Anomaly
+1741157106.8847291,0x200,Unusal CAN ID
+2025-03-05 12:15:10," ML-detected anomaly: ID 0x100, Freq 46"
+2025-03-05 12:15:10,Unusual CAN ID detected: 0x100
+2025-03-05 12:15:10,"ML Detected Anomaly: ID = 0x100, Frequency=41"
+2025-03-05 12:15:10," ML-detected anomaly: ID 0x200, Freq 15"
+2025-03-05 12:15:10,Unusual CAN ID detected: 0x200
+2025-03-05 12:15:10,"ML Detected Anomaly: ID = 0x200, Frequency=37"
+12:15:12, 0x666, ML Detected Anomaly
+12:15:12, 0x200, ML Detected Anomaly
+1741157114.9046457,0x200,Unusal CAN ID
+2025-03-05 12:15:16," ML-detected anomaly: ID 0x666, Freq 33"
+2025-03-05 12:15:16,"ML Detected Anomaly: ID = 0x666, Frequency=29"
+2025-03-05 12:15:19," ML-detected anomaly: ID 0x200, Freq 55"
+2025-03-05 12:15:19,Unusual CAN ID detected: 0x200
+2025-03-05 12:15:19,"ML Detected Anomaly: ID = 0x200, Frequency=39"
+12:15:18, 0x666, ML Detected Anomaly
+2025-03-05 12:15:22," ML-detected anomaly: ID 0x666, Freq 53"
+2025-03-05 12:15:22,"ML Detected Anomaly: ID = 0x666, Frequency=31"
+12:15:21, 0x200, ML Detected Anomaly
+1741157123.194396,0x200,Unusal CAN ID
+12:15:24, 0x666, ML Detected Anomaly
+2025-03-05 12:15:27," ML-detected anomaly: ID 0x200, Freq 8"
+2025-03-05 12:15:27,Unusual CAN ID detected: 0x200
+2025-03-05 12:15:27,"ML Detected Anomaly: ID = 0x200, Frequency=41"
+2025-03-05 12:15:29," ML-detected anomaly: ID 0x666, Freq 93"
+2025-03-05 12:15:29,"ML Detected Anomaly: ID = 0x666, Frequency=33"
+12:15:29, 0x666, ML Detected Anomaly
+12:15:31, 0x100, ML Detected Anomaly
+1741157133.4243004,0x100,Unusal CAN ID
+2025-03-05 12:15:33," ML-detected anomaly: ID 0x666, Freq 13"
+2025-03-05 12:15:33,"ML Detected Anomaly: ID = 0x666, Frequency=31"
+12:15:35, 0x200, ML Detected Anomaly
+1741157137.854874,0x200,Unusal CAN ID
+2025-03-05 12:15:37," ML-detected anomaly: ID 0x100, Freq 57"
+2025-03-05 12:15:37,Unusual CAN ID detected: 0x100
+2025-03-05 12:15:37,"ML Detected Anomaly: ID = 0x100, Frequency=43"
+12:15:39, 0x100, ML Detected Anomaly
+1741157142.0496032,0x100,Unusal CAN ID
+2025-03-05 12:15:42," ML-detected anomaly: ID 0x200, Freq 23"
+2025-03-05 12:15:42,Unusual CAN ID detected: 0x200
+2025-03-05 12:15:42,"ML Detected Anomaly: ID = 0x200, Frequency=43"
+2025-03-05 12:15:46," ML-detected anomaly: ID 0x100, Freq 52"
+2025-03-05 12:15:46,Unusual CAN ID detected: 0x100
+2025-03-05 12:15:46,"ML Detected Anomaly: ID = 0x100, Frequency=45"
+12:15:44, 0x100, ML Detected Anomaly
+1741157146.8183074,0x100,Unusal CAN ID
+12:15:48, 0x666, ML Detected Anomaly
+2025-03-05 12:15:50," ML-detected anomaly: ID 0x100, Freq 56"
+2025-03-05 12:15:50,Unusual CAN ID detected: 0x100
+2025-03-05 12:15:50,"ML Detected Anomaly: ID = 0x100, Frequency=33"
+2025-03-05 12:15:52," ML-detected anomaly: ID 0x666, Freq 51"
+2025-03-05 12:15:52,"ML Detected Anomaly: ID = 0x666, Frequency=35"
+12:15:52, 0x200, ML Detected Anomaly
+1741157155.0842693,0x200,Unusal CAN ID
+12:15:54, 0x666, ML Detected Anomaly
+2025-03-05 12:15:58," ML-detected anomaly: ID 0x666, Freq 32"
+2025-03-05 12:15:58,"ML Detected Anomaly: ID = 0x666, Frequency=37"
+2025-03-05 12:15:59," ML-detected anomaly: ID 0x200, Freq 3"
+2025-03-05 12:15:59,Unusual CAN ID detected: 0x200
+2025-03-05 12:15:59,"ML Detected Anomaly: ID = 0x200, Frequency=45"
+12:16:00, 0x100, ML Detected Anomaly
+1741157162.6503716,0x100,Unusal CAN ID
+12:16:01, 0x100, ML Detected Anomaly
+1741157163.6268027,0x100,Unusal CAN ID
+2025-03-05 12:16:06," ML-detected anomaly: ID 0x100, Freq 7"
+2025-03-05 12:16:06,Unusual CAN ID detected: 0x100
+2025-03-05 12:16:06,"ML Detected Anomaly: ID = 0x100, Frequency=47"
+2025-03-05 12:16:07," ML-detected anomaly: ID 0x100, Freq 43"
+2025-03-05 12:16:07,Unusual CAN ID detected: 0x100
+2025-03-05 12:16:07,"ML Detected Anomaly: ID = 0x100, Frequency=35"
+12:16:08, 0x666, ML Detected Anomaly
+12:16:09, 0x666, ML Detected Anomaly
+2025-03-05 12:16:13," ML-detected anomaly: ID 0x666, Freq 96"
+2025-03-05 12:16:13,"ML Detected Anomaly: ID = 0x666, Frequency=39"
+2025-03-05 12:16:14," ML-detected anomaly: ID 0x666, Freq 12"
+2025-03-05 12:16:14,"ML Detected Anomaly: ID = 0x666, Frequency=33"
+12:16:15, 0x200, ML Detected Anomaly
+1741157177.575803,0x200,Unusal CAN ID
+12:16:16, 0x100, ML Detected Anomaly
+1741157178.4014845,0x100,Unusal CAN ID
+2025-03-05 12:16:21," ML-detected anomaly: ID 0x200, Freq 96"
+2025-03-05 12:16:21,Unusual CAN ID detected: 0x200
+2025-03-05 12:16:21,"ML Detected Anomaly: ID = 0x200, Frequency=31"
+2025-03-05 12:16:22," ML-detected anomaly: ID 0x100, Freq 15"
+2025-03-05 12:16:22,Unusual CAN ID detected: 0x100
+2025-03-05 12:16:22,"ML Detected Anomaly: ID = 0x100, Frequency=37"
+12:16:23, 0x666, ML Detected Anomaly
+12:16:24, 0x666, ML Detected Anomaly
+2025-03-05 12:16:27," ML-detected anomaly: ID 0x666, Freq 12"
+2025-03-05 12:16:27,"ML Detected Anomaly: ID = 0x666, Frequency=41"
+2025-03-05 12:16:28," ML-detected anomaly: ID 0x666, Freq 50"
+2025-03-05 12:16:28,"ML Detected Anomaly: ID = 0x666, Frequency=35"
+12:16:29, 0x100, ML Detected Anomaly
+1741157191.884869,0x100,Unusal CAN ID
+12:16:30, 0x100, ML Detected Anomaly
+1741157192.3377283,0x100,Unusal CAN ID
+2025-03-05 12:16:35," ML-detected anomaly: ID 0x100, Freq 49"
+2025-03-05 12:16:35,Unusual CAN ID detected: 0x100
+2025-03-05 12:16:35,"ML Detected Anomaly: ID = 0x100, Frequency=49"
+2025-03-05 12:16:36," ML-detected anomaly: ID 0x100, Freq 5"
+2025-03-05 12:16:36,Unusual CAN ID detected: 0x100
+2025-03-05 12:16:36,"ML Detected Anomaly: ID = 0x100, Frequency=39"
+12:16:37, 0x100, ML Detected Anomaly
+1741157199.7898095,0x100,Unusal CAN ID
+12:16:38, 0x100, ML Detected Anomaly
+1741157200.1867344,0x100,Unusal CAN ID
+2025-03-05 12:16:43," ML-detected anomaly: ID 0x100, Freq 88"
+2025-03-05 12:16:43,Unusual CAN ID detected: 0x100
+2025-03-05 12:16:43,"ML Detected Anomaly: ID = 0x100, Frequency=51"
+2025-03-05 12:16:44," ML-detected anomaly: ID 0x100, Freq 54"
+2025-03-05 12:16:44,Unusual CAN ID detected: 0x100
+2025-03-05 12:16:44,"ML Detected Anomaly: ID = 0x100, Frequency=41"
+12:16:45, 0x666, ML Detected Anomaly
+12:16:46, 0x100, ML Detected Anomaly
+1741157208.200306,0x100,Unusal CAN ID
+2025-03-05 12:16:49," ML-detected anomaly: ID 0x666, Freq 4"
+2025-03-05 12:16:49,"ML Detected Anomaly: ID = 0x666, Frequency=43"
+2025-03-05 12:16:52," ML-detected anomaly: ID 0x100, Freq 15"
+2025-03-05 12:16:52,Unusual CAN ID detected: 0x100
+2025-03-05 12:16:52,"ML Detected Anomaly: ID = 0x100, Frequency=43"
+12:16:51, 0x666, ML Detected Anomaly
+2025-03-05 12:16:55," ML-detected anomaly: ID 0x666, Freq 63"
+2025-03-05 12:16:55,"ML Detected Anomaly: ID = 0x666, Frequency=45"
+12:16:54, 0x100, ML Detected Anomaly
+1741157216.3246849,0x100,Unusal CAN ID
+12:16:57, 0x666, ML Detected Anomaly
+2025-03-05 12:17:00," ML-detected anomaly: ID 0x100, Freq 70"
+2025-03-05 12:17:00,Unusual CAN ID detected: 0x100
+2025-03-05 12:17:00,"ML Detected Anomaly: ID = 0x100, Frequency=45"
+2025-03-05 12:17:06," ML-detected anomaly: ID 0x666, Freq 32"
+2025-03-05 12:17:06,"ML Detected Anomaly: ID = 0x666, Frequency=47"
+12:17:02, 0x666, ML Detected Anomaly
+2025-03-05 12:17:09," ML-detected anomaly: ID 0x666, Freq 16"
+2025-03-05 12:17:09,"ML Detected Anomaly: ID = 0x666, Frequency=37"
+12:17:08, 0x666, ML Detected Anomaly
+2025-03-05 12:17:12," ML-detected anomaly: ID 0x666, Freq 62"
+2025-03-05 12:17:12,"ML Detected Anomaly: ID = 0x666, Frequency=49"
+12:17:11, 0x100, ML Detected Anomaly
+1741157233.8502479,0x100,Unusal CAN ID
+12:17:14, 0x100, ML Detected Anomaly
+1741157236.6563654,0x100,Unusal CAN ID
+2025-03-05 12:17:18," ML-detected anomaly: ID 0x100, Freq 23"
+2025-03-05 12:17:18,Unusual CAN ID detected: 0x100
+2025-03-05 12:17:18,"ML Detected Anomaly: ID = 0x100, Frequency=47"
+2025-03-05 12:17:20," ML-detected anomaly: ID 0x100, Freq 32"
+2025-03-05 12:17:20,Unusual CAN ID detected: 0x100
+2025-03-05 12:17:20,"ML Detected Anomaly: ID = 0x100, Frequency=53"
+12:17:20, 0x100, ML Detected Anomaly
+1741157242.8356187,0x100,Unusal CAN ID
+12:17:22, 0x666, ML Detected Anomaly
+2025-03-05 12:17:27," ML-detected anomaly: ID 0x666, Freq 54"
+2025-03-05 12:17:27,"ML Detected Anomaly: ID = 0x666, Frequency=51"
+2025-03-05 12:17:27," ML-detected anomaly: ID 0x100, Freq 25"
+2025-03-05 12:17:27,Unusual CAN ID detected: 0x100
+2025-03-05 12:17:27,"ML Detected Anomaly: ID = 0x100, Frequency=49"
+12:17:29, 0x200, ML Detected Anomaly
+1741157251.0543222,0x200,Unusal CAN ID
+12:17:29, 0x100, ML Detected Anomaly
+1741157251.7397783,0x100,Unusal CAN ID
+2025-03-05 12:17:35," ML-detected anomaly: ID 0x200, Freq 64"
+2025-03-05 12:17:35,Unusual CAN ID detected: 0x200
+2025-03-05 12:17:35,"ML Detected Anomaly: ID = 0x200, Frequency=33"
+2025-03-05 12:17:36," ML-detected anomaly: ID 0x100, Freq 47"
+2025-03-05 12:17:36,Unusual CAN ID detected: 0x100
+2025-03-05 12:17:36,"ML Detected Anomaly: ID = 0x100, Frequency=51"
+12:17:37, 0x200, ML Detected Anomaly
+1741157259.3939502,0x200,Unusal CAN ID
+12:17:38, 0x200, ML Detected Anomaly
+1741157260.2375143,0x200,Unusal CAN ID
+2025-03-05 12:17:43," ML-detected anomaly: ID 0x200, Freq 26"
+2025-03-05 12:17:43,Unusual CAN ID detected: 0x200
+2025-03-05 12:17:43,"ML Detected Anomaly: ID = 0x200, Frequency=35"
+2025-03-05 12:17:44," ML-detected anomaly: ID 0x200, Freq 3"
+2025-03-05 12:17:44,Unusual CAN ID detected: 0x200
+2025-03-05 12:17:44,"ML Detected Anomaly: ID = 0x200, Frequency=47"
+12:17:45, 0x200, ML Detected Anomaly
+1741157267.4276984,0x200,Unusal CAN ID
+12:17:46, 0x666, ML Detected Anomaly
+2025-03-05 12:17:50," ML-detected anomaly: ID 0x666, Freq 24"
+2025-03-05 12:17:50,"ML Detected Anomaly: ID = 0x666, Frequency=39"
+2025-03-05 12:17:51," ML-detected anomaly: ID 0x200, Freq 61"
+2025-03-05 12:17:51,Unusual CAN ID detected: 0x200
+2025-03-05 12:17:51,"ML Detected Anomaly: ID = 0x200, Frequency=37"
+12:17:52, 0x100, ML Detected Anomaly
+1741157274.4377215,0x100,Unusal CAN ID
+12:17:53, 0x200, ML Detected Anomaly
+1741157275.4456568,0x200,Unusal CAN ID
+2025-03-05 12:17:58," ML-detected anomaly: ID 0x100, Freq 68"
+2025-03-05 12:17:58,Unusual CAN ID detected: 0x100
+2025-03-05 12:17:58,"ML Detected Anomaly: ID = 0x100, Frequency=53"
+2025-03-05 12:17:59," ML-detected anomaly: ID 0x200, Freq 48"
+2025-03-05 12:17:59,Unusual CAN ID detected: 0x200
+2025-03-05 12:17:59,"ML Detected Anomaly: ID = 0x200, Frequency=39"
+12:18:00, 0x666, ML Detected Anomaly
+12:18:01, 0x200, ML Detected Anomaly
+1741157283.7002656,0x200,Unusal CAN ID
+2025-03-05 12:18:04," ML-detected anomaly: ID 0x666, Freq 49"
+2025-03-05 12:18:04,"ML Detected Anomaly: ID = 0x666, Frequency=41"
+2025-03-05 12:18:07," ML-detected anomaly: ID 0x200, Freq 44"
+2025-03-05 12:18:07,Unusual CAN ID detected: 0x200
+2025-03-05 12:18:07,"ML Detected Anomaly: ID = 0x200, Frequency=41"
+12:18:06, 0x666, ML Detected Anomaly
+2025-03-05 12:18:10," ML-detected anomaly: ID 0x666, Freq 24"
+2025-03-05 12:18:10,"ML Detected Anomaly: ID = 0x666, Frequency=43"
+12:18:09, 0x666, ML Detected Anomaly
+2025-03-05 12:18:13," ML-detected anomaly: ID 0x666, Freq 18"
+2025-03-05 12:18:13,"ML Detected Anomaly: ID = 0x666, Frequency=53"
+12:18:12, 0x666, ML Detected Anomaly
+2025-03-05 12:18:16," ML-detected anomaly: ID 0x666, Freq 97"
+2025-03-05 12:18:16,"ML Detected Anomaly: ID = 0x666, Frequency=45"
+12:18:15, 0x200, ML Detected Anomaly
+1741157297.6242101,0x200,Unusal CAN ID
+12:18:18, 0x100, ML Detected Anomaly
+1741157300.4791741,0x100,Unusal CAN ID
+2025-03-05 12:18:21," ML-detected anomaly: ID 0x200, Freq 93"
+2025-03-05 12:18:21,Unusual CAN ID detected: 0x200
+2025-03-05 12:18:21,"ML Detected Anomaly: ID = 0x200, Frequency=43"
+2025-03-05 12:18:24," ML-detected anomaly: ID 0x100, Freq 66"
+2025-03-05 12:18:24,Unusual CAN ID detected: 0x100
+2025-03-05 12:18:24,"ML Detected Anomaly: ID = 0x100, Frequency=55"
+12:18:23, 0x100, ML Detected Anomaly
+1741157305.6953416,0x100,Unusal CAN ID
+12:18:26, 0x200, ML Detected Anomaly
+1741157308.8945093,0x200,Unusal CAN ID
+2025-03-05 12:18:30," ML-detected anomaly: ID 0x100, Freq 81"
+2025-03-05 12:18:30,Unusual CAN ID detected: 0x100
+2025-03-05 12:18:30,"ML Detected Anomaly: ID = 0x100, Frequency=55"
+2025-03-05 12:18:32," ML-detected anomaly: ID 0x200, Freq 41"
+2025-03-05 12:18:32,Unusual CAN ID detected: 0x200
+2025-03-05 12:18:32,"ML Detected Anomaly: ID = 0x200, Frequency=49"
+12:18:32, 0x200, ML Detected Anomaly
+1741157314.2073348,0x200,Unusal CAN ID
+12:18:34, 0x200, ML Detected Anomaly
+1741157316.8634045,0x200,Unusal CAN ID
+2025-03-05 12:18:38," ML-detected anomaly: ID 0x200, Freq 20"
+2025-03-05 12:18:38,Unusual CAN ID detected: 0x200
+2025-03-05 12:18:38,"ML Detected Anomaly: ID = 0x200, Frequency=45"
+2025-03-05 12:18:40," ML-detected anomaly: ID 0x200, Freq 29"
+2025-03-05 12:18:40,Unusual CAN ID detected: 0x200
+2025-03-05 12:18:40,"ML Detected Anomaly: ID = 0x200, Frequency=51"
+12:18:40, 0x200, ML Detected Anomaly
+1741157322.1266189,0x200,Unusal CAN ID
+12:18:42, 0x100, ML Detected Anomaly
+1741157324.8422947,0x100,Unusal CAN ID
+2025-03-05 12:18:45," ML-detected anomaly: ID 0x200, Freq 39"
+2025-03-05 12:18:45,Unusual CAN ID detected: 0x200
+2025-03-05 12:18:45,"ML Detected Anomaly: ID = 0x200, Frequency=47"
+2025-03-05 12:18:48," ML-detected anomaly: ID 0x100, Freq 55"
+2025-03-05 12:18:48,Unusual CAN ID detected: 0x100
+2025-03-05 12:18:48,"ML Detected Anomaly: ID = 0x100, Frequency=57"
+12:18:47, 0x200, ML Detected Anomaly
+1741157330.0395684,0x200,Unusal CAN ID
+12:18:50, 0x666, ML Detected Anomaly
+2025-03-05 12:18:54," ML-detected anomaly: ID 0x200, Freq 14"
+2025-03-05 12:18:54,Unusual CAN ID detected: 0x200
+2025-03-05 12:18:54,"ML Detected Anomaly: ID = 0x200, Frequency=49"
+2025-03-05 12:18:55," ML-detected anomaly: ID 0x666, Freq 81"
+2025-03-05 12:18:55,"ML Detected Anomaly: ID = 0x666, Frequency=47"
+12:18:56, 0x200, ML Detected Anomaly
+1741157338.190613,0x200,Unusal CAN ID
+12:18:57, 0x100, ML Detected Anomaly
+1741157339.7346854,0x100,Unusal CAN ID
+2025-03-05 12:19:04," ML-detected anomaly: ID 0x200, Freq 74"
+2025-03-05 12:19:04,Unusual CAN ID detected: 0x200
+2025-03-05 12:19:04,"ML Detected Anomaly: ID = 0x200, Frequency=51"
+2025-03-05 12:19:05," ML-detected anomaly: ID 0x100, Freq 46"
+2025-03-05 12:19:05,Unusual CAN ID detected: 0x100
+2025-03-05 12:19:05,"ML Detected Anomaly: ID = 0x100, Frequency=59"
+1741157346.45547,0x200,Unusal CAN ID
+2025-03-05 12:19:08,Unusual CAN ID detected: 0x200
+12:19:07, 0x666, ML Detected Anomaly
+2025-03-05 12:19:11," ML-detected anomaly: ID 0x666, Freq 59"
+2025-03-05 12:19:11,"ML Detected Anomaly: ID = 0x666, Frequency=49"
+12:19:10, 0x100, ML Detected Anomaly
+1741157352.948747,0x100,Unusal CAN ID
+12:19:13, 0x666, ML Detected Anomaly
+2025-03-05 12:19:17," ML-detected anomaly: ID 0x100, Freq 79"
+2025-03-05 12:19:17,Unusual CAN ID detected: 0x100
+2025-03-05 12:19:17,"ML Detected Anomaly: ID = 0x100, Frequency=57"
+2025-03-05 12:19:19," ML-detected anomaly: ID 0x666, Freq 26"
+2025-03-05 12:19:19,"ML Detected Anomaly: ID = 0x666, Frequency=51"
+12:19:19, 0x666, ML Detected Anomaly
+2025-03-05 12:19:23," ML-detected anomaly: ID 0x666, Freq 26"
+2025-03-05 12:19:23,"ML Detected Anomaly: ID = 0x666, Frequency=55"
+12:19:21, 0x200, ML Detected Anomaly
+1741157363.7597022,0x200,Unusal CAN ID
+12:19:25, 0x666, ML Detected Anomaly
+2025-03-05 12:19:27," ML-detected anomaly: ID 0x200, Freq 77"
+2025-03-05 12:19:27,Unusual CAN ID detected: 0x200
+2025-03-05 12:19:27,"ML Detected Anomaly: ID = 0x200, Frequency=53"
+2025-03-05 12:19:30," ML-detected anomaly: ID 0x666, Freq 74"
+2025-03-05 12:19:30,"ML Detected Anomaly: ID = 0x666, Frequency=57"
+12:19:29, 0x666, ML Detected Anomaly
+12:19:32, 0x666, ML Detected Anomaly
+2025-03-05 12:19:34," ML-detected anomaly: ID 0x666, Freq 99"
+2025-03-05 12:19:34,"ML Detected Anomaly: ID = 0x666, Frequency=53"
+2025-03-05 12:19:36," ML-detected anomaly: ID 0x666, Freq 94"
+2025-03-05 12:19:36,"ML Detected Anomaly: ID = 0x666, Frequency=59"
+12:19:36, 0x200, ML Detected Anomaly
+1741157378.746942,0x200,Unusal CAN ID
+12:19:38, 0x200, ML Detected Anomaly
+1741157380.2361486,0x200,Unusal CAN ID
+2025-03-05 12:19:42," ML-detected anomaly: ID 0x200, Freq 56"
+2025-03-05 12:19:42,Unusual CAN ID detected: 0x200
+2025-03-05 12:19:42,"ML Detected Anomaly: ID = 0x200, Frequency=55"
+2025-03-05 12:19:44," ML-detected anomaly: ID 0x200, Freq 63"
+2025-03-05 12:19:44,Unusual CAN ID detected: 0x200
+2025-03-05 12:19:44,"ML Detected Anomaly: ID = 0x200, Frequency=55"
+12:19:44, 0x666, ML Detected Anomaly
+12:19:46, 0x666, ML Detected Anomaly
+2025-03-05 12:19:49," ML-detected anomaly: ID 0x666, Freq 31"
+2025-03-05 12:19:49,"ML Detected Anomaly: ID = 0x666, Frequency=55"
+2025-03-05 12:19:50," ML-detected anomaly: ID 0x666, Freq 80"
+2025-03-05 12:19:50,"ML Detected Anomaly: ID = 0x666, Frequency=61"
+12:19:51, 0x100, ML Detected Anomaly
+1741157393.5101826,0x100,Unusal CAN ID
+12:19:52, 0x200, ML Detected Anomaly
+1741157394.9770312,0x200,Unusal CAN ID
+2025-03-05 12:19:58," ML-detected anomaly: ID 0x100, Freq 16"
+2025-03-05 12:19:58,Unusual CAN ID detected: 0x100
+2025-03-05 12:19:58,"ML Detected Anomaly: ID = 0x100, Frequency=61"
+2025-03-05 12:19:59," ML-detected anomaly: ID 0x200, Freq 11"
+2025-03-05 12:19:59,Unusual CAN ID detected: 0x200
+2025-03-05 12:19:59,"ML Detected Anomaly: ID = 0x200, Frequency=57"
+12:20:00, 0x200, ML Detected Anomaly
+1741157402.2499518,0x200,Unusal CAN ID
+12:20:01, 0x200, ML Detected Anomaly
+1741157403.497113,0x200,Unusal CAN ID
+2025-03-05 12:20:07," ML-detected anomaly: ID 0x200, Freq 41"
+2025-03-05 12:20:07,Unusual CAN ID detected: 0x200
+2025-03-05 12:20:07,"ML Detected Anomaly: ID = 0x200, Frequency=57"
+2025-03-05 12:20:07," ML-detected anomaly: ID 0x200, Freq 37"
+2025-03-05 12:20:07,Unusual CAN ID detected: 0x200
+2025-03-05 12:20:07,"ML Detected Anomaly: ID = 0x200, Frequency=59"
+12:20:09, 0x100, ML Detected Anomaly
+1741157411.4071598,0x100,Unusal CAN ID
+12:20:09, 0x100, ML Detected Anomaly
+1741157411.6451797,0x100,Unusal CAN ID
+2025-03-05 12:20:15," ML-detected anomaly: ID 0x100, Freq 13"
+2025-03-05 12:20:15,Unusual CAN ID detected: 0x100
+2025-03-05 12:20:15,"ML Detected Anomaly: ID = 0x100, Frequency=63"
+2025-03-05 12:20:15," ML-detected anomaly: ID 0x100, Freq 3"
+2025-03-05 12:20:15,Unusual CAN ID detected: 0x100
+2025-03-05 12:20:15,"ML Detected Anomaly: ID = 0x100, Frequency=59"
+12:20:17, 0x666, ML Detected Anomaly
+12:20:17, 0x100, ML Detected Anomaly
+1741157420.372303,0x100,Unusal CAN ID
+2025-03-05 12:20:21," ML-detected anomaly: ID 0x666, Freq 67"
+2025-03-05 12:20:21,"ML Detected Anomaly: ID = 0x666, Frequency=57"
+2025-03-05 12:20:24," ML-detected anomaly: ID 0x100, Freq 34"
+2025-03-05 12:20:24,Unusual CAN ID detected: 0x100
+2025-03-05 12:20:24,"ML Detected Anomaly: ID = 0x100, Frequency=61"
+12:20:23, 0x100, ML Detected Anomaly
+1741157426.1693687,0x100,Unusal CAN ID
+12:20:26, 0x666, ML Detected Anomaly
+2025-03-05 12:20:30," ML-detected anomaly: ID 0x100, Freq 72"
+2025-03-05 12:20:30,Unusual CAN ID detected: 0x100
+2025-03-05 12:20:30,"ML Detected Anomaly: ID = 0x100, Frequency=65"
+2025-03-05 12:20:30," ML-detected anomaly: ID 0x666, Freq 90"
+2025-03-05 12:20:30,"ML Detected Anomaly: ID = 0x666, Frequency=63"
+12:20:32, 0x200, ML Detected Anomaly
+1741157434.5520446,0x200,Unusal CAN ID
+12:20:32, 0x666, ML Detected Anomaly
+2025-03-05 12:20:37," ML-detected anomaly: ID 0x666, Freq 31"
+2025-03-05 12:20:37,"ML Detected Anomaly: ID = 0x666, Frequency=65"
+2025-03-05 12:20:38," ML-detected anomaly: ID 0x200, Freq 63"
+2025-03-05 12:20:38,Unusual CAN ID detected: 0x200
+2025-03-05 12:20:38,"ML Detected Anomaly: ID = 0x200, Frequency=59"
+12:20:39, 0x100, ML Detected Anomaly
+1741157441.6783948,0x100,Unusal CAN ID
+12:20:40, 0x200, ML Detected Anomaly
+1741157442.8942435,0x200,Unusal CAN ID
+2025-03-05 12:20:45," ML-detected anomaly: ID 0x100, Freq 73"
+2025-03-05 12:20:45,Unusual CAN ID detected: 0x100
+2025-03-05 12:20:45,"ML Detected Anomaly: ID = 0x100, Frequency=63"
+2025-03-05 12:20:46," ML-detected anomaly: ID 0x200, Freq 25"
+2025-03-05 12:20:46,Unusual CAN ID detected: 0x200
+2025-03-05 12:20:46,"ML Detected Anomaly: ID = 0x200, Frequency=61"
+12:20:47, 0x666, ML Detected Anomaly
+12:20:48, 0x200, ML Detected Anomaly
+1741157451.148289,0x200,Unusal CAN ID
+2025-03-05 12:20:51," ML-detected anomaly: ID 0x666, Freq 60"
+2025-03-05 12:20:51,"ML Detected Anomaly: ID = 0x666, Frequency=67"
+2025-03-05 12:20:55," ML-detected anomaly: ID 0x200, Freq 34"
+2025-03-05 12:20:55,Unusual CAN ID detected: 0x200
+2025-03-05 12:20:55,"ML Detected Anomaly: ID = 0x200, Frequency=63"
+12:20:53, 0x100, ML Detected Anomaly
+1741157456.358491,0x100,Unusal CAN ID
+12:20:57, 0x100, ML Detected Anomaly
+1741157459.5913987,0x100,Unusal CAN ID
+2025-03-05 12:21:00," ML-detected anomaly: ID 0x100, Freq 81"
+2025-03-05 12:21:00,Unusual CAN ID detected: 0x100
+2025-03-05 12:21:00,"ML Detected Anomaly: ID = 0x100, Frequency=65"
+2025-03-05 12:21:03," ML-detected anomaly: ID 0x100, Freq 38"
+2025-03-05 12:21:03,Unusual CAN ID detected: 0x100
+2025-03-05 12:21:03,"ML Detected Anomaly: ID = 0x100, Frequency=67"
+12:21:02, 0x200, ML Detected Anomaly
+1741157464.9075963,0x200,Unusal CAN ID
+12:21:05, 0x100, ML Detected Anomaly
+1741157468.1033778,0x100,Unusal CAN ID
+2025-03-05 12:21:08," ML-detected anomaly: ID 0x200, Freq 94"
+2025-03-05 12:21:08,Unusual CAN ID detected: 0x200
+2025-03-05 12:21:08,"ML Detected Anomaly: ID = 0x200, Frequency=61"
+2025-03-05 12:21:12," ML-detected anomaly: ID 0x100, Freq 73"
+2025-03-05 12:21:12,Unusual CAN ID detected: 0x100
+2025-03-05 12:21:12,"ML Detected Anomaly: ID = 0x100, Frequency=69"
+12:21:10, 0x100, ML Detected Anomaly
+1741157472.9365232,0x100,Unusal CAN ID
+12:21:14, 0x200, ML Detected Anomaly
+1741157476.1080568,0x200,Unusal CAN ID
+2025-03-05 12:21:16," ML-detected anomaly: ID 0x100, Freq 60"
+2025-03-05 12:21:16,Unusual CAN ID detected: 0x100
+2025-03-05 12:21:16,"ML Detected Anomaly: ID = 0x100, Frequency=67"
+2025-03-05 12:21:20," ML-detected anomaly: ID 0x200, Freq 88"
+2025-03-05 12:21:20,Unusual CAN ID detected: 0x200
+2025-03-05 12:21:20,"ML Detected Anomaly: ID = 0x200, Frequency=65"
+12:21:18, 0x666, ML Detected Anomaly
+2025-03-05 12:21:23," ML-detected anomaly: ID 0x666, Freq 23"
+2025-03-05 12:21:23,"ML Detected Anomaly: ID = 0x666, Frequency=69"
+12:21:22, 0x100, ML Detected Anomaly
+1741157484.9227006,0x100,Unusal CAN ID
+12:21:25, 0x666, ML Detected Anomaly
+2025-03-05 12:21:29," ML-detected anomaly: ID 0x100, Freq 79"
+2025-03-05 12:21:29,Unusual CAN ID detected: 0x100
+2025-03-05 12:21:29,"ML Detected Anomaly: ID = 0x100, Frequency=71"
+2025-03-05 12:21:29," ML-detected anomaly: ID 0x666, Freq 83"
+2025-03-05 12:21:29,"ML Detected Anomaly: ID = 0x666, Frequency=71"
+12:21:31, 0x100, ML Detected Anomaly
+1741157495.7754366,0x100,Unusal CAN ID
+12:21:31, 0x666, ML Detected Anomaly
+2025-03-05 12:21:39," ML-detected anomaly: ID 0x666, Freq 13"
+2025-03-05 12:21:39,"ML Detected Anomaly: ID = 0x666, Frequency=73"
+12:21:41, 0x200, ML Detected Anomaly
+1741157503.473834,0x200,Unusal CAN ID
+2025-03-05 12:21:46," ML-detected anomaly: ID 0x100, Freq 42"
+2025-03-05 12:21:46,Unusual CAN ID detected: 0x100
+2025-03-05 12:21:46,"ML Detected Anomaly: ID = 0x100, Frequency=73"
+2025-03-05 12:21:47," ML-detected anomaly: ID 0x200, Freq 68"
+2025-03-05 12:21:47,Unusual CAN ID detected: 0x200
+2025-03-05 12:21:47,"ML Detected Anomaly: ID = 0x200, Frequency=63"
+12:21:48, 0x666, ML Detected Anomaly
+12:21:49, 0x200, ML Detected Anomaly
+1741157511.8453321,0x200,Unusal CAN ID
+2025-03-05 12:21:52," ML-detected anomaly: ID 0x666, Freq 37"
+2025-03-05 12:21:52,"ML Detected Anomaly: ID = 0x666, Frequency=59"
+2025-03-05 12:21:55," ML-detected anomaly: ID 0x200, Freq 94"
+2025-03-05 12:21:55,Unusual CAN ID detected: 0x200
+2025-03-05 12:21:55,"ML Detected Anomaly: ID = 0x200, Frequency=65"
+12:21:54, 0x666, ML Detected Anomaly
+2025-03-05 12:21:59," ML-detected anomaly: ID 0x666, Freq 27"
+2025-03-05 12:21:59,"ML Detected Anomaly: ID = 0x666, Frequency=61"
+12:21:57, 0x200, ML Detected Anomaly
+1741157519.9552171,0x200,Unusal CAN ID
+12:22:01, 0x666, ML Detected Anomaly
+2025-03-05 12:22:04," ML-detected anomaly: ID 0x200, Freq 30"
+2025-03-05 12:22:04,Unusual CAN ID detected: 0x200
+2025-03-05 12:22:04,"ML Detected Anomaly: ID = 0x200, Frequency=67"
+2025-03-05 12:22:05," ML-detected anomaly: ID 0x666, Freq 53"
+2025-03-05 12:22:05,"ML Detected Anomaly: ID = 0x666, Frequency=63"
+12:22:06, 0x100, ML Detected Anomaly
+1741157528.2690952,0x100,Unusal CAN ID
+12:22:07, 0x200, ML Detected Anomaly
+1741157529.766518,0x200,Unusal CAN ID
+2025-03-05 12:22:12," ML-detected anomaly: ID 0x100, Freq 100"
+2025-03-05 12:22:12,Unusual CAN ID detected: 0x100
+2025-03-05 12:22:12,"ML Detected Anomaly: ID = 0x100, Frequency=69"
+2025-03-05 12:22:14," ML-detected anomaly: ID 0x200, Freq 88"
+2025-03-05 12:22:14,Unusual CAN ID detected: 0x200
+2025-03-05 12:22:14,"ML Detected Anomaly: ID = 0x200, Frequency=67"
+12:22:14, 0x100, ML Detected Anomaly
+1741157536.8388944,0x100,Unusal CAN ID
+12:22:16, 0x100, ML Detected Anomaly
+1741157538.4212914,0x100,Unusal CAN ID
+2025-03-05 12:22:21," ML-detected anomaly: ID 0x100, Freq 98"
+2025-03-05 12:22:21,Unusual CAN ID detected: 0x100
+2025-03-05 12:22:21,"ML Detected Anomaly: ID = 0x100, Frequency=71"
+2025-03-05 12:22:22," ML-detected anomaly: ID 0x100, Freq 72"
+2025-03-05 12:22:22,Unusual CAN ID detected: 0x100
+2025-03-05 12:22:22,"ML Detected Anomaly: ID = 0x100, Frequency=75"
+12:22:23, 0x100, ML Detected Anomaly
+1741157545.6742547,0x100,Unusal CAN ID
+12:22:24, 0x200, ML Detected Anomaly
+1741157546.6044376,0x200,Unusal CAN ID
+2025-03-05 12:22:29," ML-detected anomaly: ID 0x100, Freq 28"
+2025-03-05 12:22:29,Unusual CAN ID detected: 0x100
+2025-03-05 12:22:29,"ML Detected Anomaly: ID = 0x100, Frequency=73"
+2025-03-05 12:22:30," ML-detected anomaly: ID 0x200, Freq 34"
+2025-03-05 12:22:30,Unusual CAN ID detected: 0x200
+2025-03-05 12:22:30,"ML Detected Anomaly: ID = 0x200, Frequency=69"
+12:22:31, 0x100, ML Detected Anomaly
+1741157553.9492538,0x100,Unusal CAN ID
+12:22:32, 0x666, ML Detected Anomaly
+2025-03-05 12:22:36," ML-detected anomaly: ID 0x666, Freq 33"
+2025-03-05 12:22:36,"ML Detected Anomaly: ID = 0x666, Frequency=65"
+2025-03-05 12:22:38," ML-detected anomaly: ID 0x100, Freq 37"
+2025-03-05 12:22:38,Unusual CAN ID detected: 0x100
+2025-03-05 12:22:38,"ML Detected Anomaly: ID = 0x100, Frequency=75"
+12:22:38, 0x100, ML Detected Anomaly
+1741157561.5092134,0x100,Unusal CAN ID
+12:22:40, 0x100, ML Detected Anomaly
+1741157562.4801085,0x100,Unusal CAN ID
+2025-03-05 12:22:45," ML-detected anomaly: ID 0x100, Freq 34"
+2025-03-05 12:22:45,Unusual CAN ID detected: 0x100
+2025-03-05 12:22:45,"ML Detected Anomaly: ID = 0x100, Frequency=77"
+2025-03-05 12:22:46," ML-detected anomaly: ID 0x100, Freq 43"
+2025-03-05 12:22:46,Unusual CAN ID detected: 0x100
+2025-03-05 12:22:46,"ML Detected Anomaly: ID = 0x100, Frequency=77"
+12:22:47, 0x100, ML Detected Anomaly
+1741157570.1553988,0x100,Unusal CAN ID
+12:22:50, 0x100, ML Detected Anomaly
+1741157573.0911794,0x100,Unusal CAN ID
+2025-03-05 12:22:54," ML-detected anomaly: ID 0x100, Freq 61"
+2025-03-05 12:22:54,Unusual CAN ID detected: 0x100
+2025-03-05 12:22:54,"ML Detected Anomaly: ID = 0x100, Frequency=79"
+2025-03-05 12:22:57," ML-detected anomaly: ID 0x100, Freq 47"
+2025-03-05 12:22:57,Unusual CAN ID detected: 0x100
+2025-03-05 12:22:57,"ML Detected Anomaly: ID = 0x100, Frequency=79"
+12:22:56, 0x100, ML Detected Anomaly
+1741157578.6303756,0x100,Unusal CAN ID
+12:22:59, 0x666, ML Detected Anomaly
+2025-03-05 12:23:03," ML-detected anomaly: ID 0x100, Freq 26"
+2025-03-05 12:23:03,Unusual CAN ID detected: 0x100
+2025-03-05 12:23:03,"ML Detected Anomaly: ID = 0x100, Frequency=81"
+2025-03-05 12:23:04," ML-detected anomaly: ID 0x666, Freq 53"
+2025-03-05 12:23:04,"ML Detected Anomaly: ID = 0x666, Frequency=77"
+12:23:05, 0x100, ML Detected Anomaly
+1741157587.997238,0x100,Unusal CAN ID
+12:23:06, 0x666, ML Detected Anomaly
+2025-03-05 12:23:10," ML-detected anomaly: ID 0x666, Freq 46"
+2025-03-05 12:23:10,"ML Detected Anomaly: ID = 0x666, Frequency=79"
+2025-03-05 12:23:12," ML-detected anomaly: ID 0x100, Freq 82"
+2025-03-05 12:23:12,Unusual CAN ID detected: 0x100
+2025-03-05 12:23:12,"ML Detected Anomaly: ID = 0x100, Frequency=83"
+12:23:12, 0x100, ML Detected Anomaly
+1741157595.2382863,0x100,Unusal CAN ID
+12:23:14, 0x200, ML Detected Anomaly
+1741157596.4150996,0x200,Unusal CAN ID
+2025-03-05 12:23:19," ML-detected anomaly: ID 0x100, Freq 45"
+2025-03-05 12:23:19,Unusual CAN ID detected: 0x100
+2025-03-05 12:23:19,"ML Detected Anomaly: ID = 0x100, Frequency=81"
+2025-03-05 12:23:20," ML-detected anomaly: ID 0x200, Freq 99"
+2025-03-05 12:23:20,Unusual CAN ID detected: 0x200
+2025-03-05 12:23:20,"ML Detected Anomaly: ID = 0x200, Frequency=71"
+12:23:21, 0x666, ML Detected Anomaly
+12:23:22, 0x200, ML Detected Anomaly
+1741157604.6115282,0x200,Unusal CAN ID
+2025-03-05 12:23:26," ML-detected anomaly: ID 0x666, Freq 47"
+2025-03-05 12:23:26,"ML Detected Anomaly: ID = 0x666, Frequency=81"
+2025-03-05 12:23:29," ML-detected anomaly: ID 0x200, Freq 95"
+2025-03-05 12:23:29,Unusual CAN ID detected: 0x200
+2025-03-05 12:23:29,"ML Detected Anomaly: ID = 0x200, Frequency=73"
+12:23:28, 0x100, ML Detected Anomaly
+1741157612.4702842,0x100,Unusal CAN ID
+12:23:31, 0x200, ML Detected Anomaly
+1741157613.5263152,0x200,Unusal CAN ID
+2025-03-05 12:23:36," ML-detected anomaly: ID 0x100, Freq 42"
+2025-03-05 12:23:36,Unusual CAN ID detected: 0x100
+2025-03-05 12:23:36,"ML Detected Anomaly: ID = 0x100, Frequency=83"
+2025-03-05 12:23:37," ML-detected anomaly: ID 0x200, Freq 36"
+2025-03-05 12:23:37,Unusual CAN ID detected: 0x200
+2025-03-05 12:23:37,"ML Detected Anomaly: ID = 0x200, Frequency=75"
+12:23:38, 0x100, ML Detected Anomaly
+1741157620.8934278,0x100,Unusal CAN ID
+12:23:39, 0x100, ML Detected Anomaly
+1741157622.0384398,0x100,Unusal CAN ID
+2025-03-05 12:23:44," ML-detected anomaly: ID 0x100, Freq 54"
+2025-03-05 12:23:44,Unusual CAN ID detected: 0x100
+2025-03-05 12:23:44,"ML Detected Anomaly: ID = 0x100, Frequency=85"
+2025-03-05 12:23:46," ML-detected anomaly: ID 0x100, Freq 48"
+2025-03-05 12:23:46,Unusual CAN ID detected: 0x100
+2025-03-05 12:23:46,"ML Detected Anomaly: ID = 0x100, Frequency=85"
+12:23:46, 0x100, ML Detected Anomaly
+1741157629.1605806,0x100,Unusal CAN ID
+12:23:48, 0x200, ML Detected Anomaly
+1741157630.5334105,0x200,Unusal CAN ID
+2025-03-05 12:23:53," ML-detected anomaly: ID 0x100, Freq 47"
+2025-03-05 12:23:53,Unusual CAN ID detected: 0x100
+2025-03-05 12:23:53,"ML Detected Anomaly: ID = 0x100, Frequency=87"
+2025-03-05 12:23:54," ML-detected anomaly: ID 0x200, Freq 46"
+2025-03-05 12:23:54,Unusual CAN ID detected: 0x200
+2025-03-05 12:23:54,"ML Detected Anomaly: ID = 0x200, Frequency=77"
+12:23:55, 0x200, ML Detected Anomaly
+1741157637.469087,0x200,Unusal CAN ID
+12:23:56, 0x666, ML Detected Anomaly
+2025-03-05 12:24:01," ML-detected anomaly: ID 0x666, Freq 60"
+2025-03-05 12:24:01,"ML Detected Anomaly: ID = 0x666, Frequency=67"
+2025-03-05 12:24:01," ML-detected anomaly: ID 0x200, Freq 13"
+2025-03-05 12:24:01,Unusual CAN ID detected: 0x200
+2025-03-05 12:24:01,"ML Detected Anomaly: ID = 0x200, Frequency=69"
+12:24:03, 0x666, ML Detected Anomaly
+12:24:03, 0x666, ML Detected Anomaly
+2025-03-05 12:24:07," ML-detected anomaly: ID 0x666, Freq 26"
+2025-03-05 12:24:07,"ML Detected Anomaly: ID = 0x666, Frequency=69"
+2025-03-05 12:24:08," ML-detected anomaly: ID 0x666, Freq 39"
+2025-03-05 12:24:08,"ML Detected Anomaly: ID = 0x666, Frequency=83"
+12:24:09, 0x666, ML Detected Anomaly
+12:24:10, 0x200, ML Detected Anomaly
+1741157652.169434,0x200,Unusal CAN ID
+2025-03-05 12:24:13," ML-detected anomaly: ID 0x666, Freq 46"
+2025-03-05 12:24:13,"ML Detected Anomaly: ID = 0x666, Frequency=71"
+2025-03-05 12:24:16," ML-detected anomaly: ID 0x200, Freq 39"
+2025-03-05 12:24:16,Unusual CAN ID detected: 0x200
+2025-03-05 12:24:16,"ML Detected Anomaly: ID = 0x200, Frequency=71"
+12:24:15, 0x100, ML Detected Anomaly
+1741157657.993436,0x100,Unusal CAN ID
+12:24:18, 0x666, ML Detected Anomaly
+2025-03-05 12:24:23," ML-detected anomaly: ID 0x100, Freq 89"
+2025-03-05 12:24:23,Unusual CAN ID detected: 0x100
+2025-03-05 12:24:23,"ML Detected Anomaly: ID = 0x100, Frequency=87"
+2025-03-05 12:24:23," ML-detected anomaly: ID 0x666, Freq 78"
+2025-03-05 12:24:23,"ML Detected Anomaly: ID = 0x666, Frequency=85"
+12:24:25, 0x100, ML Detected Anomaly
+1741157667.9585044,0x100,Unusal CAN ID
+12:24:25, 0x100, ML Detected Anomaly
+1741157668.2266269,0x100,Unusal CAN ID
+2025-03-05 12:24:32," ML-detected anomaly: ID 0x100, Freq 47"
+2025-03-05 12:24:32,Unusual CAN ID detected: 0x100
+2025-03-05 12:24:32,"ML Detected Anomaly: ID = 0x100, Frequency=89"
+2025-03-05 12:24:32," ML-detected anomaly: ID 0x100, Freq 84"
+2025-03-05 12:24:32,Unusual CAN ID detected: 0x100
+2025-03-05 12:24:32,"ML Detected Anomaly: ID = 0x100, Frequency=89"
+12:24:34, 0x100, ML Detected Anomaly
+1741157676.5364728,0x100,Unusal CAN ID
+12:24:34, 0x100, ML Detected Anomaly
+1741157676.8094115,0x100,Unusal CAN ID
+2025-03-05 12:24:41," ML-detected anomaly: ID 0x100, Freq 80"
+2025-03-05 12:24:41,Unusual CAN ID detected: 0x100
+2025-03-05 12:24:41,"ML Detected Anomaly: ID = 0x100, Frequency=91"
+2025-03-05 12:24:41," ML-detected anomaly: ID 0x100, Freq 4"
+2025-03-05 12:24:41,Unusual CAN ID detected: 0x100
+2025-03-05 12:24:41,"ML Detected Anomaly: ID = 0x100, Frequency=91"
+12:24:43, 0x200, ML Detected Anomaly
+1741157685.2924728,0x200,Unusal CAN ID
+12:24:43, 0x200, ML Detected Anomaly
+1741157685.3742697,0x200,Unusal CAN ID
+2025-03-05 12:24:51," ML-detected anomaly: ID 0x200, Freq 34"
+2025-03-05 12:24:51,Unusual CAN ID detected: 0x200
+2025-03-05 12:24:51,"ML Detected Anomaly: ID = 0x200, Frequency=79"
+2025-03-05 12:24:51," ML-detected anomaly: ID 0x200, Freq 100"
+2025-03-05 12:24:51,Unusual CAN ID detected: 0x200
+2025-03-05 12:24:51,"ML Detected Anomaly: ID = 0x200, Frequency=73"
+12:24:53, 0x100, ML Detected Anomaly
+1741157697.1672184,0x100,Unusal CAN ID
+12:24:53, 0x200, ML Detected Anomaly
+1741157697.2809615,0x200,Unusal CAN ID
+2025-03-05 12:25:01," ML-detected anomaly: ID 0x100, Freq 37"
+2025-03-05 12:25:01,Unusual CAN ID detected: 0x100
+2025-03-05 12:25:01,"ML Detected Anomaly: ID = 0x100, Frequency=93"
+2025-03-05 12:25:01," ML-detected anomaly: ID 0x200, Freq 51"
+2025-03-05 12:25:01,Unusual CAN ID detected: 0x200
+2025-03-05 12:25:01,"ML Detected Anomaly: ID = 0x200, Frequency=75"
+12:25:03, 0x666, ML Detected Anomaly
+12:25:03, 0x200, ML Detected Anomaly
+1741157706.1413949,0x200,Unusal CAN ID
+2025-03-05 12:25:08," ML-detected anomaly: ID 0x666, Freq 14"
+2025-03-05 12:25:08,"ML Detected Anomaly: ID = 0x666, Frequency=73"
+2025-03-05 12:25:10," ML-detected anomaly: ID 0x200, Freq 9"
+2025-03-05 12:25:10,Unusual CAN ID detected: 0x200
+2025-03-05 12:25:10,"ML Detected Anomaly: ID = 0x200, Frequency=77"
+12:25:10, 0x200, ML Detected Anomaly
+1741157712.8345568,0x200,Unusal CAN ID
+12:25:12, 0x100, ML Detected Anomaly
+1741157715.969634,0x100,Unusal CAN ID
+2025-03-05 12:25:18," ML-detected anomaly: ID 0x200, Freq 88"
+2025-03-05 12:25:18,Unusual CAN ID detected: 0x200
+2025-03-05 12:25:18,"ML Detected Anomaly: ID = 0x200, Frequency=81"
+2025-03-05 12:25:21," ML-detected anomaly: ID 0x100, Freq 6"
+2025-03-05 12:25:21,Unusual CAN ID detected: 0x100
+2025-03-05 12:25:21,"ML Detected Anomaly: ID = 0x100, Frequency=93"
+12:25:20, 0x200, ML Detected Anomaly
+1741157723.0827665,0x200,Unusal CAN ID
+12:25:23, 0x100, ML Detected Anomaly
+1741157727.0517092,0x100,Unusal CAN ID
+2025-03-05 12:25:29," ML-detected anomaly: ID 0x200, Freq 35"
+2025-03-05 12:25:29,Unusual CAN ID detected: 0x200
+2025-03-05 12:25:29,"ML Detected Anomaly: ID = 0x200, Frequency=83"
+2025-03-05 12:25:31," ML-detected anomaly: ID 0x100, Freq 58"
+2025-03-05 12:25:31,Unusual CAN ID detected: 0x100
+2025-03-05 12:25:31,"ML Detected Anomaly: ID = 0x100, Frequency=95"
+12:25:31, 0x100, ML Detected Anomaly
+1741157733.6118433,0x100,Unusal CAN ID
+12:25:33, 0x200, ML Detected Anomaly
+1741157735.7234588,0x200,Unusal CAN ID
+2025-03-05 12:25:39," ML-detected anomaly: ID 0x200, Freq 97"
+2025-03-05 12:25:39,Unusual CAN ID detected: 0x200
+2025-03-05 12:25:39,"ML Detected Anomaly: ID = 0x200, Frequency=79"
+2025-03-05 12:25:43," ML-detected anomaly: ID 0x100, Freq 32"
+2025-03-05 12:25:43,Unusual CAN ID detected: 0x100
+2025-03-05 12:25:43,"ML Detected Anomaly: ID = 0x100, Frequency=95"
+12:25:41, 0x100, ML Detected Anomaly
+1741157744.1784143,0x100,Unusal CAN ID
+12:25:45, 0x100, ML Detected Anomaly
+1741157747.301547,0x100,Unusal CAN ID
+2025-03-05 12:25:48," ML-detected anomaly: ID 0x100, Freq 79"
+2025-03-05 12:25:48,Unusual CAN ID detected: 0x100
+2025-03-05 12:25:48,"ML Detected Anomaly: ID = 0x100, Frequency=97"
+2025-03-05 12:25:53," ML-detected anomaly: ID 0x100, Freq 60"
+2025-03-05 12:25:53,Unusual CAN ID detected: 0x100
+2025-03-05 12:25:53,"ML Detected Anomaly: ID = 0x100, Frequency=97"
+12:25:50, 0x100, ML Detected Anomaly
+1741157755.4697676,0x100,Unusal CAN ID
+12:25:55, 0x666, ML Detected Anomaly
+2025-03-05 12:26:01," ML-detected anomaly: ID 0x666, Freq 23"
+2025-03-05 12:26:01,"ML Detected Anomaly: ID = 0x666, Frequency=75"
+2025-03-05 12:26:02," ML-detected anomaly: ID 0x100, Freq 74"
+2025-03-05 12:26:02,Unusual CAN ID detected: 0x100
+2025-03-05 12:26:02,"ML Detected Anomaly: ID = 0x100, Frequency=99"
+12:26:03, 0x200, ML Detected Anomaly
+1741157768.7665584,0x200,Unusal CAN ID
+12:26:04, 0x100, ML Detected Anomaly
+1741157771.892354,0x100,Unusal CAN ID
+2025-03-05 12:26:13," ML-detected anomaly: ID 0x200, Freq 47"
+2025-03-05 12:26:13,Unusual CAN ID detected: 0x200
+2025-03-05 12:26:13,"ML Detected Anomaly: ID = 0x200, Frequency=85"
+2025-03-05 12:26:16," ML-detected anomaly: ID 0x100, Freq 6"
+2025-03-05 12:26:16,High message rate detected fro ID 0x100
+2025-03-05 12:26:16,Unusual CAN ID detected: 0x100
+2025-03-05 12:26:16,"ML Detected Anomaly: ID = 0x100, Frequency=101"
+12:26:15, 0x200, ML Detected Anomaly
+1741157777.8190348,0x200,Unusal CAN ID
+12:26:18, 0x666, ML Detected Anomaly
+2025-03-05 12:26:22," ML-detected anomaly: ID 0x200, Freq 32"
+2025-03-05 12:26:22,Unusual CAN ID detected: 0x200
+2025-03-05 12:26:22,"ML Detected Anomaly: ID = 0x200, Frequency=87"
+2025-03-05 12:26:24," ML-detected anomaly: ID 0x666, Freq 4"
+2025-03-05 12:26:24,"ML Detected Anomaly: ID = 0x666, Frequency=87"
+12:26:24, 0x666, ML Detected Anomaly
+12:26:26, 0x666, ML Detected Anomaly
+2025-03-05 12:26:28," ML-detected anomaly: ID 0x666, Freq 83"
+2025-03-05 12:26:28,"ML Detected Anomaly: ID = 0x666, Frequency=77"
+2025-03-05 12:26:31," ML-detected anomaly: ID 0x666, Freq 66"
+2025-03-05 12:26:31,"ML Detected Anomaly: ID = 0x666, Frequency=89"
+12:26:30, 0x666, ML Detected Anomaly
+2025-03-05 12:26:35," ML-detected anomaly: ID 0x666, Freq 5"
+2025-03-05 12:26:35,"ML Detected Anomaly: ID = 0x666, Frequency=79"
+12:26:33, 0x100, ML Detected Anomaly
+1741157798.7362993,0x100,Unusal CAN ID
+12:26:37, 0x100, ML Detected Anomaly
+1741157800.1226175,0x100,Unusal CAN ID
+2025-03-05 12:31:54," ML-detected anomaly: ID 0x100, Freq 95"
+2025-03-05 12:31:54,High message rate detected fro ID 0x100
+2025-03-05 12:31:54,Unusual CAN ID detected: 0x100
+2025-03-05 12:31:54,"ML Detected Anomaly: ID = 0x100, Frequency=103"
+12:31:56, 0x200, ML Detected Anomaly
+1741158119.221878,0x200,Unusal CAN ID
+2025-03-05 12:32:04," ML-detected anomaly: ID 0x200, Freq 58"
+2025-03-05 12:32:04,Unusual CAN ID detected: 0x200
+2025-03-05 12:32:04,"ML Detected Anomaly: ID = 0x200, Frequency=81"
+12:32:06, 0x100, ML Detected Anomaly
+1741158169.8107262,0x100,Unusal CAN ID
+2025-03-05 12:33:51," ML-detected anomaly: ID 0x100, Freq 31"
+2025-03-05 12:33:51,High message rate detected fro ID 0x100
+2025-03-05 12:33:51,Unusual CAN ID detected: 0x100
+2025-03-05 12:33:51,"ML Detected Anomaly: ID = 0x100, Frequency=105"
+12:33:53, 0x666, ML Detected Anomaly
+2025-03-05 12:34:14," ML-detected anomaly: ID 0x666, Freq 70"
+2025-03-05 12:34:14,"ML Detected Anomaly: ID = 0x666, Frequency=91"
+12:34:16, 0x666, ML Detected Anomaly
+2025-03-05 12:34:53," ML-detected anomaly: ID 0x100, Freq 55"
+2025-03-05 12:34:53,Unusual CAN ID detected: 0x100
+2025-03-05 12:34:53,"ML Detected Anomaly: ID = 0x100, Frequency=99"
+2025-03-05 12:34:54," ML-detected anomaly: ID 0x666, Freq 42"
+2025-03-05 12:34:54,"ML Detected Anomaly: ID = 0x666, Frequency=93"
+12:34:55, 0x666, ML Detected Anomaly
+2025-03-05 12:35:10," ML-detected anomaly: ID 0x666, Freq 22"
+2025-03-05 12:35:10,"ML Detected Anomaly: ID = 0x666, Frequency=81"
+12:34:56, 0x666, ML Detected Anomaly
+2025-03-05 12:35:56," ML-detected anomaly: ID 0x666, Freq 32"
+2025-03-05 12:35:56,"ML Detected Anomaly: ID = 0x666, Frequency=95"
+12:35:58, 0x200, ML Detected Anomaly
+1741158370.804095,0x200,Unusal CAN ID
+2025-03-05 12:37:03," ML-detected anomaly: ID 0x200, Freq 15"
+2025-03-05 12:37:03,Unusual CAN ID detected: 0x200
+2025-03-05 12:37:03,"ML Detected Anomaly: ID = 0x200, Frequency=83"
+12:37:05, 0x666, ML Detected Anomaly
+2025-03-05 12:37:09," ML-detected anomaly: ID 0x666, Freq 52"
+2025-03-05 12:37:09,"ML Detected Anomaly: ID = 0x666, Frequency=97"
+12:37:11, 0x666, ML Detected Anomaly
+2025-03-05 12:37:15," ML-detected anomaly: ID 0x666, Freq 14"
+2025-03-05 12:37:15,"ML Detected Anomaly: ID = 0x666, Frequency=99"
+12:37:17, 0x666, ML Detected Anomaly
+2025-03-05 12:37:25," ML-detected anomaly: ID 0x666, Freq 72"
+2025-03-05 12:37:25,High message rate detected fro ID 0x666
+2025-03-05 12:37:25,"ML Detected Anomaly: ID = 0x666, Frequency=101"
+12:35:12, 0x200, ML Detected Anomaly
+1741158457.4669092,0x200,Unusal CAN ID
+12:37:27, 0x666, ML Detected Anomaly
+2025-03-05 12:37:49," ML-detected anomaly: ID 0x200, Freq 38"
+2025-03-05 12:37:49,Unusual CAN ID detected: 0x200
+2025-03-05 12:37:49,"ML Detected Anomaly: ID = 0x200, Frequency=89"
+12:37:51, 0x200, ML Detected Anomaly
+1741158476.3976765,0x200,Unusal CAN ID
+2025-03-05 12:37:57," ML-detected anomaly: ID 0x666, Freq 100"
+2025-03-05 12:37:57,High message rate detected fro ID 0x666
+2025-03-05 12:37:57,"ML Detected Anomaly: ID = 0x666, Frequency=103"
+2025-03-05 12:38:00," ML-detected anomaly: ID 0x200, Freq 28"
+2025-03-05 12:38:00,Unusual CAN ID detected: 0x200
+2025-03-05 12:38:00,"ML Detected Anomaly: ID = 0x200, Frequency=91"
+12:37:59, 0x200, ML Detected Anomaly
+1741158481.3010035,0x200,Unusal CAN ID
+12:38:02, 0x100, ML Detected Anomaly
+2025-03-05 12:38:07," ML-detected anomaly: ID 0x200, Freq 35"
+2025-03-05 12:38:07,Unusual CAN ID detected: 0x200
+2025-03-05 12:38:07,"ML Detected Anomaly: ID = 0x200, Frequency=85"
+1741158488.4285042,0x100,Unusal CAN ID
+12:38:09, 0x100, ML Detected Anomaly
+2025-03-05 12:38:13," ML-detected anomaly: ID 0x100, Freq 71"
+2025-03-05 12:38:13,High message rate detected fro ID 0x100
+2025-03-05 12:38:13,Unusual CAN ID detected: 0x100
+2025-03-05 12:38:13,"ML Detected Anomaly: ID = 0x100, Frequency=101"
+1741158494.3838725,0x100,Unusal CAN ID
+12:38:15, 0x100, ML Detected Anomaly
+2025-03-05 12:38:18," ML-detected anomaly: ID 0x100, Freq 31"
+2025-03-05 12:38:18,High message rate detected fro ID 0x100
+2025-03-05 12:38:18,Unusual CAN ID detected: 0x100
+2025-03-05 12:38:18,"ML Detected Anomaly: ID = 0x100, Frequency=107"
+1741158499.663725,0x100,Unusal CAN ID
+12:38:20, 0x666, ML Detected Anomaly
+2025-03-05 12:38:24," ML-detected anomaly: ID 0x100, Freq 6"
+2025-03-05 12:38:24,High message rate detected fro ID 0x100
+2025-03-05 12:38:24,Unusual CAN ID detected: 0x100
+2025-03-05 12:38:24,"ML Detected Anomaly: ID = 0x100, Frequency=103"
+2025-03-05 12:38:27," ML-detected anomaly: ID 0x666, Freq 33"
+2025-03-05 12:38:27,High message rate detected fro ID 0x666
+2025-03-05 12:38:27,"ML Detected Anomaly: ID = 0x666, Frequency=105"
+12:38:26, 0x100, ML Detected Anomaly
+1741158510.516468,0x100,Unusal CAN ID
+12:38:29, 0x200, ML Detected Anomaly
+1741158511.7517335,0x200,Unusal CAN ID
+2025-03-05 12:38:34," ML-detected anomaly: ID 0x100, Freq 71"
+2025-03-05 12:38:34,High message rate detected fro ID 0x100
+2025-03-05 12:38:34,Unusual CAN ID detected: 0x100
+2025-03-05 12:38:34,"ML Detected Anomaly: ID = 0x100, Frequency=105"
+2025-03-05 12:38:35," ML-detected anomaly: ID 0x200, Freq 41"
+2025-03-05 12:38:35,Unusual CAN ID detected: 0x200
+2025-03-05 12:38:35,"ML Detected Anomaly: ID = 0x200, Frequency=87"
+12:38:36, 0x100, ML Detected Anomaly
+12:38:37, 0x666, ML Detected Anomaly
+1741158521.0737221,0x100,Unusal CAN ID
+2025-03-05 12:38:44," ML-detected anomaly: ID 0x666, Freq 39"
+2025-03-05 12:38:44,High message rate detected fro ID 0x666
+2025-03-05 12:38:44,"ML Detected Anomaly: ID = 0x666, Frequency=107"
+2025-03-05 12:38:45," ML-detected anomaly: ID 0x100, Freq 38"
+2025-03-05 12:38:45,High message rate detected fro ID 0x100
+2025-03-05 12:38:45,Unusual CAN ID detected: 0x100
+2025-03-05 12:38:45,"ML Detected Anomaly: ID = 0x100, Frequency=107"
+12:38:46, 0x666, ML Detected Anomaly
+12:38:47, 0x200, ML Detected Anomaly
+1741158529.8207664,0x200,Unusal CAN ID
+2025-03-05 12:38:53," ML-detected anomaly: ID 0x666, Freq 51"
+2025-03-05 12:38:53,High message rate detected fro ID 0x666
+2025-03-05 12:38:53,"ML Detected Anomaly: ID = 0x666, Frequency=109"
+2025-03-05 12:38:55," ML-detected anomaly: ID 0x200, Freq 12"
+2025-03-05 12:38:55,Unusual CAN ID detected: 0x200
+2025-03-05 12:38:55,"ML Detected Anomaly: ID = 0x200, Frequency=93"
+12:38:55, 0x666, ML Detected Anomaly
+12:38:57, 0x200, ML Detected Anomaly
+1741158547.7434185,0x200,Unusal CAN ID
+2025-03-05 12:39:12," ML-detected anomaly: ID 0x666, Freq 71"
+2025-03-05 12:39:12,High message rate detected fro ID 0x666
+2025-03-05 12:39:12,"ML Detected Anomaly: ID = 0x666, Frequency=111"
+2025-03-05 12:39:15," ML-detected anomaly: ID 0x200, Freq 72"
+2025-03-05 12:39:15,Unusual CAN ID detected: 0x200
+2025-03-05 12:39:15,"ML Detected Anomaly: ID = 0x200, Frequency=95"
+12:39:14, 0x200, ML Detected Anomaly
+1741158564.1844218,0x200,Unusal CAN ID
+12:39:17, 0x100, ML Detected Anomaly
+1741158567.664091,0x100,Unusal CAN ID
+2025-03-05 12:39:28," ML-detected anomaly: ID 0x200, Freq 70"
+2025-03-05 12:39:28,Unusual CAN ID detected: 0x200
+2025-03-05 12:39:28,"ML Detected Anomaly: ID = 0x200, Frequency=89"
+2025-03-05 12:39:37," ML-detected anomaly: ID 0x100, Freq 59"
+2025-03-05 12:39:37,High message rate detected fro ID 0x100
+2025-03-05 12:39:37,Unusual CAN ID detected: 0x100
+2025-03-05 12:39:37,"ML Detected Anomaly: ID = 0x100, Frequency=109"
+12:39:30, 0x200, ML Detected Anomaly
+1741158578.197646,0x200,Unusal CAN ID
+12:39:39, 0x666, ML Detected Anomaly
+2025-03-05 12:39:42," ML-detected anomaly: ID 0x200, Freq 75"
+2025-03-05 12:39:42,Unusual CAN ID detected: 0x200
+2025-03-05 12:39:42,"ML Detected Anomaly: ID = 0x200, Frequency=91"
+2025-03-05 12:39:44," ML-detected anomaly: ID 0x666, Freq 74"
+2025-03-05 12:39:44,"ML Detected Anomaly: ID = 0x666, Frequency=83"
+12:39:44, 0x100, ML Detected Anomaly
+12:39:46, 0x200, ML Detected Anomaly
+1741158588.4345424,0x200,Unusal CAN ID
+1741158588.840311,0x100,Unusal CAN ID
+2025-03-05 12:39:52," ML-detected anomaly: ID 0x200, Freq 65"
+2025-03-05 12:39:52,Unusual CAN ID detected: 0x200
+2025-03-05 12:39:52,"ML Detected Anomaly: ID = 0x200, Frequency=97"
+2025-03-05 12:39:53," ML-detected anomaly: ID 0x100, Freq 86"
+2025-03-05 12:39:53,High message rate detected fro ID 0x100
+2025-03-05 12:39:53,Unusual CAN ID detected: 0x100
+2025-03-05 12:39:53,"ML Detected Anomaly: ID = 0x100, Frequency=109"
+12:39:54, 0x666, ML Detected Anomaly
+12:39:55, 0x200, ML Detected Anomaly
+1741158597.4406147,0x200,Unusal CAN ID
+2025-03-05 12:39:59," ML-detected anomaly: ID 0x666, Freq 16"
+2025-03-05 12:39:59,"ML Detected Anomaly: ID = 0x666, Frequency=85"
+2025-03-05 12:40:01," ML-detected anomaly: ID 0x200, Freq 37"
+2025-03-05 12:40:01,Unusual CAN ID detected: 0x200
+2025-03-05 12:40:01,"ML Detected Anomaly: ID = 0x200, Frequency=93"
+12:40:01, 0x200, ML Detected Anomaly
+1741158603.3714352,0x200,Unusal CAN ID
+12:40:03, 0x666, ML Detected Anomaly
+2025-03-05 12:40:07," ML-detected anomaly: ID 0x200, Freq 70"
+2025-03-05 12:40:07,Unusual CAN ID detected: 0x200
+2025-03-05 12:40:07,"ML Detected Anomaly: ID = 0x200, Frequency=99"
+2025-03-05 12:40:10," ML-detected anomaly: ID 0x666, Freq 51"
+2025-03-05 12:40:10,High message rate detected fro ID 0x666
+2025-03-05 12:40:10,"ML Detected Anomaly: ID = 0x666, Frequency=113"
+12:40:09, 0x666, ML Detected Anomaly
+2025-03-05 12:40:14," ML-detected anomaly: ID 0x666, Freq 62"
+2025-03-05 12:40:14,"ML Detected Anomaly: ID = 0x666, Frequency=87"
+12:40:12, 0x100, ML Detected Anomaly
+1741158616.7502208,0x100,Unusal CAN ID
+12:40:16, 0x100, ML Detected Anomaly
+1741158620.923704,0x100,Unusal CAN ID
+2025-03-05 12:40:20," ML-detected anomaly: ID 0x100, Freq 14"
+2025-03-05 12:40:20,High message rate detected fro ID 0x100
+2025-03-05 12:40:20,Unusual CAN ID detected: 0x100
+2025-03-05 12:40:20,"ML Detected Anomaly: ID = 0x100, Frequency=111"
+12:40:22, 0x200, ML Detected Anomaly
+1741158625.124946,0x200,Unusal CAN ID
+2025-03-05 12:40:25," ML-detected anomaly: ID 0x100, Freq 40"
+2025-03-05 12:40:25,High message rate detected fro ID 0x100
+2025-03-05 12:40:25,Unusual CAN ID detected: 0x100
+2025-03-05 12:40:25,"ML Detected Anomaly: ID = 0x100, Frequency=111"
+2025-03-05 12:40:29," ML-detected anomaly: ID 0x200, Freq 95"
+2025-03-05 12:40:29,Unusual CAN ID detected: 0x200
+2025-03-05 12:40:29,"ML Detected Anomaly: ID = 0x200, Frequency=95"
+12:40:27, 0x200, ML Detected Anomaly
+1741158631.462657,0x200,Unusal CAN ID
+12:40:31, 0x666, ML Detected Anomaly
+2025-03-05 12:40:35," ML-detected anomaly: ID 0x200, Freq 34"
+2025-03-05 12:40:35,High message rate detected fro ID 0x200
+2025-03-05 12:40:35,Unusual CAN ID detected: 0x200
+2025-03-05 12:40:35,"ML Detected Anomaly: ID = 0x200, Frequency=101"
+2025-03-05 12:40:37," ML-detected anomaly: ID 0x666, Freq 9"
+2025-03-05 12:40:37,High message rate detected fro ID 0x666
+2025-03-05 12:40:37,"ML Detected Anomaly: ID = 0x666, Frequency=115"
+12:40:37, 0x666, ML Detected Anomaly
+2025-03-05 12:40:42," ML-detected anomaly: ID 0x666, Freq 54"
+2025-03-05 12:40:42,"ML Detected Anomaly: ID = 0x666, Frequency=89"
+12:40:39, 0x100, ML Detected Anomaly
+1741158644.3291452,0x100,Unusal CAN ID
+12:40:44, 0x100, ML Detected Anomaly
+1741158648.3820837,0x100,Unusal CAN ID
+2025-03-05 12:40:48," ML-detected anomaly: ID 0x100, Freq 32"
+2025-03-05 12:40:48,High message rate detected fro ID 0x100
+2025-03-05 12:40:48,Unusual CAN ID detected: 0x100
+2025-03-05 12:40:48,"ML Detected Anomaly: ID = 0x100, Frequency=113"
+2025-03-05 12:41:01," ML-detected anomaly: ID 0x100, Freq 44"
+2025-03-05 12:41:01,High message rate detected fro ID 0x100
+2025-03-05 12:41:01,Unusual CAN ID detected: 0x100
+2025-03-05 12:41:01,"ML Detected Anomaly: ID = 0x100, Frequency=113"
+12:40:50, 0x666, ML Detected Anomaly
+12:41:03, 0x200, ML Detected Anomaly
+2025-03-05 12:41:10," ML-detected anomaly: ID 0x666, Freq 41"
+2025-03-05 12:41:10,High message rate detected fro ID 0x666
+2025-03-05 12:41:10,"ML Detected Anomaly: ID = 0x666, Frequency=117"
+1741158672.2138362,0x200,Unusal CAN ID
+12:41:12, 0x200, ML Detected Anomaly
+1741158675.5029259,0x200,Unusal CAN ID
+2025-03-05 12:41:16," ML-detected anomaly: ID 0x200, Freq 84"
+2025-03-05 12:41:16,High message rate detected fro ID 0x200
+2025-03-05 12:41:16,Unusual CAN ID detected: 0x200
+2025-03-05 12:41:16,"ML Detected Anomaly: ID = 0x200, Frequency=103"
+2025-03-05 12:41:19," ML-detected anomaly: ID 0x200, Freq 79"
+2025-03-05 12:41:19,Unusual CAN ID detected: 0x200
+2025-03-05 12:41:19,"ML Detected Anomaly: ID = 0x200, Frequency=97"
+12:41:18, 0x100, ML Detected Anomaly
+1741158683.351909,0x100,Unusal CAN ID
+12:41:21, 0x200, ML Detected Anomaly
+1741158683.948974,0x200,Unusal CAN ID
+2025-03-05 12:41:27," ML-detected anomaly: ID 0x100, Freq 94"
+2025-03-05 12:41:27,High message rate detected fro ID 0x100
+2025-03-05 12:41:27,Unusual CAN ID detected: 0x100
+2025-03-05 12:41:27,"ML Detected Anomaly: ID = 0x100, Frequency=115"
+2025-03-05 12:41:28," ML-detected anomaly: ID 0x200, Freq 15"
+2025-03-05 12:41:28,Unusual CAN ID detected: 0x200
+2025-03-05 12:41:28,"ML Detected Anomaly: ID = 0x200, Frequency=99"
+12:41:29, 0x200, ML Detected Anomaly
+12:41:30, 0x666, ML Detected Anomaly
+1741158693.7533243,0x200,Unusal CAN ID
+2025-03-05 12:41:36," ML-detected anomaly: ID 0x666, Freq 84"
+2025-03-05 12:41:36,High message rate detected fro ID 0x666
+2025-03-05 12:41:36,"ML Detected Anomaly: ID = 0x666, Frequency=119"
+2025-03-05 12:41:37," ML-detected anomaly: ID 0x200, Freq 87"
+2025-03-05 12:41:37,High message rate detected fro ID 0x200
+2025-03-05 12:41:37,Unusual CAN ID detected: 0x200
+2025-03-05 12:41:37,"ML Detected Anomaly: ID = 0x200, Frequency=105"
+12:41:38, 0x100, ML Detected Anomaly
+12:41:39, 0x100, ML Detected Anomaly
+1741158702.1683118,0x100,Unusal CAN ID
+1741158703.7430696,0x100,Unusal CAN ID
+2025-03-05 12:41:49," ML-detected anomaly: ID 0x100, Freq 94"
+2025-03-05 12:41:49,High message rate detected fro ID 0x100
+2025-03-05 12:41:49,Unusual CAN ID detected: 0x100
+2025-03-05 12:41:49,"ML Detected Anomaly: ID = 0x100, Frequency=115"
+2025-03-05 12:41:51," ML-detected anomaly: ID 0x100, Freq 35"
+2025-03-05 12:41:51,High message rate detected fro ID 0x100
+2025-03-05 12:41:51,Unusual CAN ID detected: 0x100
+2025-03-05 12:41:51,"ML Detected Anomaly: ID = 0x100, Frequency=117"
+12:41:51, 0x100, ML Detected Anomaly
+12:41:53, 0x666, ML Detected Anomaly
+1741158727.5655892,0x100,Unusal CAN ID
+2025-03-05 12:42:15," ML-detected anomaly: ID 0x666, Freq 68"
+2025-03-05 12:42:15,"ML Detected Anomaly: ID = 0x666, Frequency=91"
+2025-03-05 12:42:17," ML-detected anomaly: ID 0x100, Freq 59"
+2025-03-05 12:42:17,High message rate detected fro ID 0x100
+2025-03-05 12:42:17,Unusual CAN ID detected: 0x100
+2025-03-05 12:42:17,"ML Detected Anomaly: ID = 0x100, Frequency=117"
+12:42:19, 0x200, ML Detected Anomaly
+12:42:19, 0x100, ML Detected Anomaly
+1741158746.5923498,0x200,Unusal CAN ID
+1741158746.6912637,0x100,Unusal CAN ID
+2025-03-05 12:42:35," ML-detected anomaly: ID 0x200, Freq 75"
+2025-03-05 12:42:35,High message rate detected fro ID 0x200
+2025-03-05 12:42:35,Unusual CAN ID detected: 0x200
+2025-03-05 12:42:35,"ML Detected Anomaly: ID = 0x200, Frequency=107"
+2025-03-05 12:42:35," ML-detected anomaly: ID 0x100, Freq 7"
+2025-03-05 12:42:35,High message rate detected fro ID 0x100
+2025-03-05 12:42:35,Unusual CAN ID detected: 0x100
+2025-03-05 12:42:35,"ML Detected Anomaly: ID = 0x100, Frequency=119"
+12:42:37, 0x666, ML Detected Anomaly
+12:42:37, 0x100, ML Detected Anomaly
+1741158780.8298597,0x100,Unusal CAN ID
+2025-03-05 12:43:21," ML-detected anomaly: ID 0x666, Freq 2"
+2025-03-05 12:43:21,High message rate detected fro ID 0x666
+2025-03-05 12:43:21,"ML Detected Anomaly: ID = 0x666, Frequency=121"
+2025-03-05 12:43:26," ML-detected anomaly: ID 0x100, Freq 57"
+2025-03-05 12:43:26,High message rate detected fro ID 0x100
+2025-03-05 12:43:26,Unusual CAN ID detected: 0x100
+2025-03-05 12:43:26,"ML Detected Anomaly: ID = 0x100, Frequency=119"
+12:43:23, 0x100, ML Detected Anomaly
+12:43:28, 0x200, ML Detected Anomaly
+1741158825.2661111,0x100,Unusal CAN ID
+1741158828.3126035,0x200,Unusal CAN ID
+2025-03-05 12:43:52," ML-detected anomaly: ID 0x100, Freq 47"
+2025-03-05 12:43:52,High message rate detected fro ID 0x100
+2025-03-05 12:43:52,Unusual CAN ID detected: 0x100
+2025-03-05 12:43:52,"ML Detected Anomaly: ID = 0x100, Frequency=121"
+2025-03-05 12:43:53," ML-detected anomaly: ID 0x200, Freq 45"
+2025-03-05 12:43:53,High message rate detected fro ID 0x200
+2025-03-05 12:43:53,Unusual CAN ID detected: 0x200
+2025-03-05 12:43:53,"ML Detected Anomaly: ID = 0x200, Frequency=109"
+12:43:54, 0x666, ML Detected Anomaly
+12:43:55, 0x666, ML Detected Anomaly
+2025-03-05 12:44:07," ML-detected anomaly: ID 0x666, Freq 68"
+2025-03-05 12:44:07,"ML Detected Anomaly: ID = 0x666, Frequency=95"
+2025-03-05 12:44:09," ML-detected anomaly: ID 0x666, Freq 2"
+2025-03-05 12:44:09,High message rate detected fro ID 0x666
+2025-03-05 12:44:09,"ML Detected Anomaly: ID = 0x666, Frequency=123"
+12:44:09, 0x100, ML Detected Anomaly
+12:44:11, 0x666, ML Detected Anomaly
+1741158856.978602,0x100,Unusal CAN ID
+2025-03-05 12:44:19," ML-detected anomaly: ID 0x666, Freq 90"
+2025-03-05 12:44:19,High message rate detected fro ID 0x666
+2025-03-05 12:44:19,"ML Detected Anomaly: ID = 0x666, Frequency=125"
+2025-03-05 12:44:21," ML-detected anomaly: ID 0x100, Freq 86"
+2025-03-05 12:44:21,High message rate detected fro ID 0x100
+2025-03-05 12:44:21,Unusual CAN ID detected: 0x100
+2025-03-05 12:44:21,"ML Detected Anomaly: ID = 0x100, Frequency=121"
+12:44:21, 0x666, ML Detected Anomaly
+12:44:23, 0x200, ML Detected Anomaly
+1741158867.9359775,0x200,Unusal CAN ID
+2025-03-05 12:44:29," ML-detected anomaly: ID 0x666, Freq 75"
+2025-03-05 12:44:29,High message rate detected fro ID 0x666
+2025-03-05 12:44:29,"ML Detected Anomaly: ID = 0x666, Frequency=127"
+2025-03-05 12:44:32," ML-detected anomaly: ID 0x200, Freq 16"
+2025-03-05 12:44:32,High message rate detected fro ID 0x200
+2025-03-05 12:44:32,Unusual CAN ID detected: 0x200
+2025-03-05 12:44:32,"ML Detected Anomaly: ID = 0x200, Frequency=111"
+12:44:31, 0x666, ML Detected Anomaly
+12:44:34, 0x200, ML Detected Anomaly
+2025-03-05 12:44:37," ML-detected anomaly: ID 0x666, Freq 82"
+2025-03-05 12:44:37,High message rate detected fro ID 0x666
+2025-03-05 12:44:37,"ML Detected Anomaly: ID = 0x666, Frequency=129"
+1741158878.6805127,0x200,Unusal CAN ID
+12:44:39, 0x100, ML Detected Anomaly
+2025-03-05 12:44:43," ML-detected anomaly: ID 0x200, Freq 16"
+2025-03-05 12:44:43,High message rate detected fro ID 0x200
+2025-03-05 12:44:43,Unusual CAN ID detected: 0x200
+2025-03-05 12:44:43,"ML Detected Anomaly: ID = 0x200, Frequency=113"
+1741158884.5871184,0x100,Unusal CAN ID
+12:44:45, 0x666, ML Detected Anomaly
+2025-03-05 12:45:04," ML-detected anomaly: ID 0x100, Freq 20"
+2025-03-05 12:45:04,High message rate detected fro ID 0x100
+2025-03-05 12:45:04,Unusual CAN ID detected: 0x100
+2025-03-05 12:45:04,"ML Detected Anomaly: ID = 0x100, Frequency=123"
+2025-03-05 12:45:06," ML-detected anomaly: ID 0x666, Freq 71"
+2025-03-05 12:45:06,"ML Detected Anomaly: ID = 0x666, Frequency=97"
+12:45:06, 0x666, ML Detected Anomaly
+12:45:08, 0x200, ML Detected Anomaly
+1741158915.8105106,0x200,Unusal CAN ID
+2025-03-05 12:45:17," ML-detected anomaly: ID 0x666, Freq 22"
+2025-03-05 12:45:17,High message rate detected fro ID 0x666
+2025-03-05 12:45:17,"ML Detected Anomaly: ID = 0x666, Frequency=131"
+2025-03-05 12:45:21," ML-detected anomaly: ID 0x200, Freq 66"
+2025-03-05 12:45:21,High message rate detected fro ID 0x200
+2025-03-05 12:45:21,Unusual CAN ID detected: 0x200
+2025-03-05 12:45:21,"ML Detected Anomaly: ID = 0x200, Frequency=115"
+12:45:19, 0x100, ML Detected Anomaly
+1741158927.486882,0x100,Unusal CAN ID
+12:45:23, 0x666, ML Detected Anomaly
+2025-03-05 12:45:30," ML-detected anomaly: ID 0x666, Freq 2"
+2025-03-05 12:45:30,"ML Detected Anomaly: ID = 0x666, Frequency=99"
+2025-03-05 12:45:31," ML-detected anomaly: ID 0x100, Freq 61"
+2025-03-05 12:45:31,High message rate detected fro ID 0x100
+2025-03-05 12:45:31,Unusual CAN ID detected: 0x100
+2025-03-05 12:45:31,"ML Detected Anomaly: ID = 0x100, Frequency=125"
+12:45:32, 0x200, ML Detected Anomaly
+12:45:33, 0x100, ML Detected Anomaly
+1741158937.3264573,0x200,Unusal CAN ID
+1741158938.5869515,0x100,Unusal CAN ID
+2025-03-05 12:45:41," ML-detected anomaly: ID 0x200, Freq 15"
+2025-03-05 12:45:41,High message rate detected fro ID 0x200
+2025-03-05 12:45:41,Unusual CAN ID detected: 0x200
+2025-03-05 12:45:41,"ML Detected Anomaly: ID = 0x200, Frequency=117"
+2025-03-05 12:45:43," ML-detected anomaly: ID 0x100, Freq 90"
+2025-03-05 12:45:43,High message rate detected fro ID 0x100
+2025-03-05 12:45:43,Unusual CAN ID detected: 0x100
+2025-03-05 12:45:43,"ML Detected Anomaly: ID = 0x100, Frequency=127"
+12:45:43, 0x100, ML Detected Anomaly
+12:45:45, 0x200, ML Detected Anomaly
+1741158948.3142605,0x100,Unusal CAN ID
+1741158950.2026172,0x200,Unusal CAN ID
+2025-03-05 12:45:52," ML-detected anomaly: ID 0x100, Freq 10"
+2025-03-05 12:45:52,High message rate detected fro ID 0x100
+2025-03-05 12:45:52,Unusual CAN ID detected: 0x100
+2025-03-05 12:45:52,"ML Detected Anomaly: ID = 0x100, Frequency=123"
+2025-03-05 12:45:54," ML-detected anomaly: ID 0x200, Freq 65"
+2025-03-05 12:45:54,High message rate detected fro ID 0x200
+2025-03-05 12:45:54,Unusual CAN ID detected: 0x200
+2025-03-05 12:45:54,"ML Detected Anomaly: ID = 0x200, Frequency=101"
+12:45:54, 0x666, ML Detected Anomaly
+12:45:56, 0x100, ML Detected Anomaly
+1741158960.893107,0x100,Unusal CAN ID
+2025-03-05 12:46:01," ML-detected anomaly: ID 0x666, Freq 77"
+2025-03-05 12:46:01,High message rate detected fro ID 0x666
+2025-03-05 12:46:01,"ML Detected Anomaly: ID = 0x666, Frequency=101"
+2025-03-05 12:46:08," ML-detected anomaly: ID 0x100, Freq 17"
+2025-03-05 12:46:08,High message rate detected fro ID 0x100
+2025-03-05 12:46:08,Unusual CAN ID detected: 0x100
+2025-03-05 12:46:08,"ML Detected Anomaly: ID = 0x100, Frequency=129"
+12:46:03, 0x200, ML Detected Anomaly
+1741158971.0508802,0x200,Unusal CAN ID
+12:46:10, 0x666, ML Detected Anomaly
+2025-03-05 12:46:15," ML-detected anomaly: ID 0x200, Freq 38"
+2025-03-05 12:46:15,High message rate detected fro ID 0x200
+2025-03-05 12:46:15,Unusual CAN ID detected: 0x200
+2025-03-05 12:46:15,"ML Detected Anomaly: ID = 0x200, Frequency=119"
+2025-03-05 12:46:17," ML-detected anomaly: ID 0x666, Freq 33"
+2025-03-05 12:46:17,High message rate detected fro ID 0x666
+2025-03-05 12:46:17,"ML Detected Anomaly: ID = 0x666, Frequency=133"
+12:46:17, 0x100, ML Detected Anomaly
+12:46:19, 0x100, ML Detected Anomaly
+1741158982.346051,0x100,Unusal CAN ID
+1741158983.9399512,0x100,Unusal CAN ID
+2025-03-05 12:46:26," ML-detected anomaly: ID 0x100, Freq 63"
+2025-03-05 12:46:26,High message rate detected fro ID 0x100
+2025-03-05 12:46:26,Unusual CAN ID detected: 0x100
+2025-03-05 12:46:26,"ML Detected Anomaly: ID = 0x100, Frequency=125"
+2025-03-05 12:46:28," ML-detected anomaly: ID 0x100, Freq 54"
+2025-03-05 12:46:28,High message rate detected fro ID 0x100
+2025-03-05 12:46:28,Unusual CAN ID detected: 0x100
+2025-03-05 12:46:28,"ML Detected Anomaly: ID = 0x100, Frequency=131"
+12:46:28, 0x200, ML Detected Anomaly
+12:46:30, 0x666, ML Detected Anomaly
+1741158994.0339882,0x200,Unusal CAN ID
+2025-03-05 12:46:38," ML-detected anomaly: ID 0x666, Freq 30"
+2025-03-05 12:46:38,High message rate detected fro ID 0x666
+2025-03-05 12:46:38,"ML Detected Anomaly: ID = 0x666, Frequency=135"
+2025-03-05 12:46:39," ML-detected anomaly: ID 0x200, Freq 55"
+2025-03-05 12:46:39,High message rate detected fro ID 0x200
+2025-03-05 12:46:39,Unusual CAN ID detected: 0x200
+2025-03-05 12:46:39,"ML Detected Anomaly: ID = 0x200, Frequency=121"
+12:46:40, 0x100, ML Detected Anomaly
+12:46:41, 0x100, ML Detected Anomaly
+1741159007.1116114,0x100,Unusal CAN ID
+1741159008.103516,0x100,Unusal CAN ID
+2025-03-05 12:46:52," ML-detected anomaly: ID 0x100, Freq 97"
+2025-03-05 12:46:52,High message rate detected fro ID 0x100
+2025-03-05 12:46:52,Unusual CAN ID detected: 0x100
+2025-03-05 12:46:52,"ML Detected Anomaly: ID = 0x100, Frequency=133"
+2025-03-05 12:46:53," ML-detected anomaly: ID 0x100, Freq 13"
+2025-03-05 12:46:53,High message rate detected fro ID 0x100
+2025-03-05 12:46:53,Unusual CAN ID detected: 0x100
+2025-03-05 12:46:53,"ML Detected Anomaly: ID = 0x100, Frequency=127"
+12:46:54, 0x200, ML Detected Anomaly
+12:46:55, 0x100, ML Detected Anomaly
+1741159023.2235227,0x200,Unusal CAN ID
+1741159025.307455,0x100,Unusal CAN ID
+2025-03-05 12:47:12," ML-detected anomaly: ID 0x200, Freq 97"
+2025-03-05 12:47:12,High message rate detected fro ID 0x200
+2025-03-05 12:47:12,Unusual CAN ID detected: 0x200
+2025-03-05 12:47:12,"ML Detected Anomaly: ID = 0x200, Frequency=103"
+2025-03-05 12:47:13," ML-detected anomaly: ID 0x100, Freq 60"
+2025-03-05 12:47:13,High message rate detected fro ID 0x100
+2025-03-05 12:47:13,Unusual CAN ID detected: 0x100
+2025-03-05 12:47:13,"ML Detected Anomaly: ID = 0x100, Frequency=129"
+12:47:14, 0x666, ML Detected Anomaly
+12:47:15, 0x100, ML Detected Anomaly
+1741159040.2276297,0x100,Unusal CAN ID
+2025-03-05 12:47:21," ML-detected anomaly: ID 0x666, Freq 36"
+2025-03-05 12:47:21,High message rate detected fro ID 0x666
+2025-03-05 12:47:21,"ML Detected Anomaly: ID = 0x666, Frequency=137"
+2025-03-05 12:47:24," ML-detected anomaly: ID 0x100, Freq 38"
+2025-03-05 12:47:24,High message rate detected fro ID 0x100
+2025-03-05 12:47:24,Unusual CAN ID detected: 0x100
+2025-03-05 12:47:24,"ML Detected Anomaly: ID = 0x100, Frequency=131"
+12:47:23, 0x200, ML Detected Anomaly
+1741159048.3131337,0x200,Unusal CAN ID
+12:47:26, 0x666, ML Detected Anomaly
+2025-03-05 12:47:33," ML-detected anomaly: ID 0x200, Freq 93"
+2025-03-05 12:47:33,High message rate detected fro ID 0x200
+2025-03-05 12:47:33,Unusual CAN ID detected: 0x200
+2025-03-05 12:47:33,"ML Detected Anomaly: ID = 0x200, Frequency=105"
+2025-03-05 12:47:34," ML-detected anomaly: ID 0x666, Freq 34"
+2025-03-05 12:47:34,High message rate detected fro ID 0x666
+2025-03-05 12:47:34,"ML Detected Anomaly: ID = 0x666, Frequency=103"
+12:47:35, 0x200, ML Detected Anomaly
+12:47:36, 0x666, ML Detected Anomaly
+1741159064.7188022,0x200,Unusal CAN ID
+2025-03-05 12:47:47," ML-detected anomaly: ID 0x666, Freq 11"
+2025-03-05 12:47:47,High message rate detected fro ID 0x666
+2025-03-05 12:47:47,"ML Detected Anomaly: ID = 0x666, Frequency=105"
+2025-03-05 12:47:50," ML-detected anomaly: ID 0x200, Freq 49"
+2025-03-05 12:47:50,High message rate detected fro ID 0x200
+2025-03-05 12:47:50,Unusual CAN ID detected: 0x200
+2025-03-05 12:47:50,"ML Detected Anomaly: ID = 0x200, Frequency=107"
+12:47:49, 0x200, ML Detected Anomaly
+12:47:52, 0x666, ML Detected Anomaly
+1741159074.706884,0x200,Unusal CAN ID
+2025-03-05 12:47:58," ML-detected anomaly: ID 0x200, Freq 98"
+2025-03-05 12:47:58,High message rate detected fro ID 0x200
+2025-03-05 12:47:58,Unusual CAN ID detected: 0x200
+2025-03-05 12:47:58,"ML Detected Anomaly: ID = 0x200, Frequency=123"
+2025-03-05 12:47:58," ML-detected anomaly: ID 0x666, Freq 83"
+2025-03-05 12:47:58,High message rate detected fro ID 0x666
+2025-03-05 12:47:58,"ML Detected Anomaly: ID = 0x666, Frequency=139"
+12:48:00, 0x666, ML Detected Anomaly
+12:48:00, 0x666, ML Detected Anomaly
+2025-03-05 12:48:08," ML-detected anomaly: ID 0x666, Freq 74"
+2025-03-05 12:48:08,High message rate detected fro ID 0x666
+2025-03-05 12:48:08,"ML Detected Anomaly: ID = 0x666, Frequency=107"
+2025-03-05 12:48:09," ML-detected anomaly: ID 0x666, Freq 37"
+2025-03-05 12:48:09,High message rate detected fro ID 0x666
+2025-03-05 12:48:09,"ML Detected Anomaly: ID = 0x666, Frequency=141"
+12:48:10, 0x100, ML Detected Anomaly
+12:48:11, 0x100, ML Detected Anomaly
+1741159097.0113616,0x100,Unusal CAN ID
+1741159097.0439613,0x100,Unusal CAN ID
+2025-03-05 12:48:21," ML-detected anomaly: ID 0x100, Freq 17"
+2025-03-05 12:48:21,High message rate detected fro ID 0x100
+2025-03-05 12:48:21,Unusual CAN ID detected: 0x100
+2025-03-05 12:48:21,"ML Detected Anomaly: ID = 0x100, Frequency=133"
+2025-03-05 12:48:21," ML-detected anomaly: ID 0x100, Freq 69"
+2025-03-05 12:48:21,High message rate detected fro ID 0x100
+2025-03-05 12:48:21,Unusual CAN ID detected: 0x100
+2025-03-05 12:48:21,"ML Detected Anomaly: ID = 0x100, Frequency=135"
+12:48:23, 0x666, ML Detected Anomaly
+12:48:23, 0x100, ML Detected Anomaly
+1741159109.3922176,0x100,Unusal CAN ID
+2025-03-05 12:48:31," ML-detected anomaly: ID 0x666, Freq 81"
+2025-03-05 12:48:31,High message rate detected fro ID 0x666
+2025-03-05 12:48:31,"ML Detected Anomaly: ID = 0x666, Frequency=109"
+2025-03-05 12:48:34," ML-detected anomaly: ID 0x100, Freq 81"
+2025-03-05 12:48:34,High message rate detected fro ID 0x100
+2025-03-05 12:48:34,Unusual CAN ID detected: 0x100
+2025-03-05 12:48:34,"ML Detected Anomaly: ID = 0x100, Frequency=137"
+12:48:33, 0x666, ML Detected Anomaly
+12:48:36, 0x666, ML Detected Anomaly
+2025-03-05 12:48:42," ML-detected anomaly: ID 0x666, Freq 88"
+2025-03-05 12:48:42,High message rate detected fro ID 0x666
+2025-03-05 12:48:42,"ML Detected Anomaly: ID = 0x666, Frequency=111"
+2025-03-05 12:48:44," ML-detected anomaly: ID 0x666, Freq 78"
+2025-03-05 12:48:44,High message rate detected fro ID 0x666
+2025-03-05 12:48:44,"ML Detected Anomaly: ID = 0x666, Frequency=143"
+12:48:44, 0x666, ML Detected Anomaly
+12:48:46, 0x100, ML Detected Anomaly
+1741159130.8552384,0x100,Unusal CAN ID
+2025-03-05 12:48:51," ML-detected anomaly: ID 0x666, Freq 48"
+2025-03-05 12:48:51,High message rate detected fro ID 0x666
+2025-03-05 12:48:51,"ML Detected Anomaly: ID = 0x666, Frequency=113"
+2025-03-05 12:48:55," ML-detected anomaly: ID 0x100, Freq 54"
+2025-03-05 12:48:55,High message rate detected fro ID 0x100
+2025-03-05 12:48:55,Unusual CAN ID detected: 0x100
+2025-03-05 12:48:55,"ML Detected Anomaly: ID = 0x100, Frequency=139"
+12:48:53, 0x100, ML Detected Anomaly
+1741159138.6525004,0x100,Unusal CAN ID
+12:48:57, 0x100, ML Detected Anomaly
+1741159141.7752497,0x100,Unusal CAN ID
+2025-03-05 12:49:03," ML-detected anomaly: ID 0x100, Freq 56"
+2025-03-05 12:49:03,High message rate detected fro ID 0x100
+2025-03-05 12:49:03,Unusual CAN ID detected: 0x100
+2025-03-05 12:49:03,"ML Detected Anomaly: ID = 0x100, Frequency=135"
+2025-03-05 12:49:06," ML-detected anomaly: ID 0x100, Freq 80"
+2025-03-05 12:49:06,High message rate detected fro ID 0x100
+2025-03-05 12:49:06,Unusual CAN ID detected: 0x100
+2025-03-05 12:49:06,"ML Detected Anomaly: ID = 0x100, Frequency=141"
+12:49:05, 0x100, ML Detected Anomaly
+1741159150.127757,0x100,Unusal CAN ID
+12:49:08, 0x200, ML Detected Anomaly
+1741159153.6155708,0x200,Unusal CAN ID
+2025-03-05 12:49:14," ML-detected anomaly: ID 0x100, Freq 42"
+2025-03-05 12:49:14,High message rate detected fro ID 0x100
+2025-03-05 12:49:14,Unusual CAN ID detected: 0x100
+2025-03-05 12:49:14,"ML Detected Anomaly: ID = 0x100, Frequency=137"
+2025-03-05 12:49:19," ML-detected anomaly: ID 0x200, Freq 44"
+2025-03-05 12:49:19,High message rate detected fro ID 0x200
+2025-03-05 12:49:19,Unusual CAN ID detected: 0x200
+2025-03-05 12:49:19,"ML Detected Anomaly: ID = 0x200, Frequency=109"
+12:49:16, 0x100, ML Detected Anomaly
+1741159168.6595254,0x100,Unusal CAN ID
+12:49:21, 0x100, ML Detected Anomaly
+1741159171.514672,0x100,Unusal CAN ID
+2025-03-05 12:49:33," ML-detected anomaly: ID 0x100, Freq 35"
+2025-03-05 12:49:33,High message rate detected fro ID 0x100
+2025-03-05 12:49:33,Unusual CAN ID detected: 0x100
+2025-03-05 12:49:33,"ML Detected Anomaly: ID = 0x100, Frequency=139"
+2025-03-05 12:49:37," ML-detected anomaly: ID 0x100, Freq 58"
+2025-03-05 12:49:37,High message rate detected fro ID 0x100
+2025-03-05 12:49:37,Unusual CAN ID detected: 0x100
+2025-03-05 12:49:37,"ML Detected Anomaly: ID = 0x100, Frequency=143"
+12:49:35, 0x200, ML Detected Anomaly
+1741159180.6268177,0x200,Unusal CAN ID
+12:49:39, 0x100, ML Detected Anomaly
+1741159184.56468,0x100,Unusal CAN ID
+2025-03-05 12:49:45," ML-detected anomaly: ID 0x200, Freq 65"
+2025-03-05 12:49:45,High message rate detected fro ID 0x200
+2025-03-05 12:49:45,Unusual CAN ID detected: 0x200
+2025-03-05 12:49:45,"ML Detected Anomaly: ID = 0x200, Frequency=125"
+2025-03-05 12:49:50," ML-detected anomaly: ID 0x100, Freq 3"
+2025-03-05 12:49:50,High message rate detected fro ID 0x100
+2025-03-05 12:49:50,Unusual CAN ID detected: 0x100
+2025-03-05 12:49:50,"ML Detected Anomaly: ID = 0x100, Frequency=145"
+12:49:47, 0x100, ML Detected Anomaly
+1741159194.10782,0x100,Unusal CAN ID
+12:49:52, 0x200, ML Detected Anomaly
+1741159198.4988897,0x200,Unusal CAN ID
+2025-03-05 12:49:59," ML-detected anomaly: ID 0x100, Freq 57"
+2025-03-05 12:49:59,High message rate detected fro ID 0x100
+2025-03-05 12:49:59,Unusual CAN ID detected: 0x100
+2025-03-05 12:49:59,"ML Detected Anomaly: ID = 0x100, Frequency=141"
+2025-03-05 12:50:03," ML-detected anomaly: ID 0x200, Freq 27"
+2025-03-05 12:50:03,High message rate detected fro ID 0x200
+2025-03-05 12:50:03,Unusual CAN ID detected: 0x200
+2025-03-05 12:50:03,"ML Detected Anomaly: ID = 0x200, Frequency=111"
+12:50:01, 0x666, ML Detected Anomaly
