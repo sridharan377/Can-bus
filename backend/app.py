@@ -3,6 +3,7 @@ import can
 import time
 import logging
 import csv
+import os
 import smtplib
 from email.mime.text import MIMEText
 from flask import Flask
@@ -20,10 +21,14 @@ app = Flask(__name__)
 socketio = SocketIO(app, cors_allowed_origins="*", async_mode='threading')
 
 CAN_INTERFACE = "vcan0"
-model_data = joblib.load("isolation_forest_model.pkl")
+
+model_path = os.path.join(os.path.dirname(__file__), "isolation_forest_model.pkl")
+scaler_path = os.path.join(os.path.dirname(__file__), "scaler.pkl")
+
+model_data = joblib.load(model_path)
 ml_model = model_data["model"]
 feature_names = model_data["features"]
-scaler = joblib.load("scaler.pkl")
+scaler = joblib.load(scaler_path)
 
 INFLUXDB_URL = "http://localhost:8086"
 INFLUXDB_TOKEN = "your_influxdb_token"
