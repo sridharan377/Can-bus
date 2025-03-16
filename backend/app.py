@@ -4,12 +4,16 @@ import time
 import logging
 import csv
 import os
+import pickle
 import smtplib
 from email.mime.text import MIMEText
 from flask import Flask
+from flask_cors import CORS
 from flask_socketio import SocketIO, emit
+from flask import Flask, request, jsonify
 from threading import Thread
 import joblib
+from sklearn.ensemble import IsolationForest
 import numpy as np
 import traceback
 import pandas as pd
@@ -18,17 +22,30 @@ from influxdb_client import InfluxDBClient, Point, WriteOptions, WritePrecision
 logging.basicConfig(filename ="backend.log", level= logging.DEBUG,format="%(asctime)s - %(levelname)s - %(message)s")
 
 app = Flask(__name__)
+CORS(app, origins = ["https://can-bus-pro.web.app"])
 socketio = SocketIO(app, cors_allowed_origins="*", async_mode='threading')
 
 CAN_INTERFACE = "vcan0"
 
-model_path = os.path.join(os.path.dirname(__file__), "isolation_forest_model.pkl")
-scaler_path = os.path.join(os.path.dirname(__file__), "scaler.pkl")
+model_path = "isolation_forest_model.pkl"
 
-model_data = joblib.load(model_path)
-ml_model = model_data["model"]
-feature_names = model_data["features"]
-scaler = joblib.load(scaler_path)
+ Check if the model file exists
+if not os.path.exists(model_path):
+    raise FileNotFoundError(f"? Model file not found at: {model_path}")
+
+# Load the model
+with open(model_path, "rb") as file:
+    model = pickle.load(file)
+
+print("? Model loaded successfully!")
+
+#model_path = os.path.join(os.path.dirname(__file__), "isolation_forest_model.pkl")
+#scaler_path = os.path.join(os.path.dirname(__file__), "scaler.pkl")
+
+#Emodel_data = joblib.load(model_path)
+#ml_model = model_data["model"]
+#feature_names = model_data["features"]
+#scaler = joblib.load(scaler_path)
 
 INFLUXDB_URL = "http://localhost:8086"
 INFLUXDB_TOKEN = "your_influxdb_token"
@@ -158,7 +175,7 @@ def send_can_messages():
                 .field("message_frequency", message_frequency) \
                 .field("bus_load", bus_load) \
                 .field("anomaly_detected", 1) \
-                .field("is_anomalous", int(is_anomalous))
+                .field("anomaly_detected", int(is_anomalous))
 
             write_api.write(bucket=INFLUXDB_BUCKET, org=INFLUXDB_ORG, record=point)
 
@@ -210,6 +227,25 @@ def send_can_messages():
 @app.route("/")       
 def home():
     return "CAN Bus Backend is Running"
+    
+@app.route("/api/data", methods=['GET' , 'POST']) 
+def api_data():
+    if request.method == 'GET':
+       return jsonify({"message": "Hello from flask!"})
+       
+    if request.method == 'POST':
+        data = request.get_json()
+        return jsonify({"received_data": data})
+        
+
+
+
+@socketio.on("connect")
+def handle_connect():
+    print("Connected")
+    socketio.emit("new_message", {"id": "0x123", "message": "Test message from backend"})
+    
+
 
 if __name__ == "__main__":
     logging.info("Starting backend service ..")
@@ -217,4 +253,5 @@ if __name__ == "__main__":
     can_thread.daemon = True
     can_thread.start()
     socketio.run(app, host="0.0.0.0", port=5000, debug=True)
+    
 
